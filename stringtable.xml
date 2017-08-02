@@ -1082,7 +1082,7 @@
             <English>Report to the officer for debriefing.</English>
             <Portuguese>Apresente-se ao oficial para realizar o debriefing.</Portuguese>
             <Korean>장교에게 신고하고 사후강평에 참석하라.</Korean>
-            <Chinesesimp>向军官报到并进行汇报.</Chinesesimp>
+            <Chinesesimp>向军官报到以听取任务简报.</Chinesesimp>
             <Japanese>士官のもとに出向き、デブリーフィングせよ。</Japanese>
           </Key>
           <Key ID="STR_A3_C_in1_taskBIS_reportIn_mrkr">
@@ -1669,7 +1669,7 @@
               <English>I'm sure you'll find some supplies lying around out there, too! Hold the line! Out!</English>
               <Portuguese>Tenho certeza de que tem suprimentos por lá também. Mantenha a linha! Desligo!</Portuguese>
               <Korean>거기 주변에 분명히 보급품도 있을 거다! 전선을 사수해! 이상!</Korean>
-              <Chinesesimp>我很确定你附近应该还有很多补给! 请守住防线! 通话完毕!</Chinesesimp>
+              <Chinesesimp>我很确定你附近应该还能找到很多补给! 请守住防线! 通话完毕!</Chinesesimp>
               <Japanese>近くに物資も転がっているはずだ。戦線を維持しろ！以上！</Japanese>
             </Key>
             <Key ID="str_a3_c_in2_i05_defenses_ker_0">
@@ -1685,7 +1685,7 @@
               <English>Yes, Sir. Everything seems mostly intact. Over.</English>
               <Portuguese>Sim, senhor. Tudo está praticamente intacto. Câmbio.</Portuguese>
               <Korean>네. 대부분 멀쩡한 것 같습니다. 이상.</Korean>
-              <Chinesesimp>是, 长官. 所有东西看起来都还可以用. 完毕.</Chinesesimp>
+              <Chinesesimp>是, 长官. 大部分东西看起来都还可以用. 完毕.</Chinesesimp>
               <Japanese>イエス、サー。ほぼ無傷のようです。どうぞ。</Japanese>
             </Key>
           </Container>
@@ -2181,7 +2181,7 @@
               <English>Multiple alpha victors on sensor! Preparing to engage!</English>
               <Portuguese>Vários victor alfas no sensor! Preparem-se para o combate!</Portuguese>
               <Korean>감지기에 다수의 기갑차량 포착! 교전 준비하라!</Korean>
-              <Chinesesimp>多名目标被传感器给检测到! 正准备交战!</Chinesesimp>
+              <Chinesesimp>传感器检测到多个敌方车辆! 正准备交战!</Chinesesimp>
               <Japanese>センサーに複数のアルファ・ビクターを確認！交戦に備える！</Japanese>
             </Key>
           </Container>
@@ -2769,7 +2769,7 @@
               <English>Jesus, someone shoot me already.</English>
               <Portuguese>Minha nossa, quero levar logo um tiro.</Portuguese>
               <Korean>제기랄, 그냥 누가 나한테 총질이나 해줬으면 좋겠네.</Korean>
-              <Chinesesimp>天啊, 快点找个人来把我给干掉吧.</Chinesesimp>
+              <Chinesesimp>天啊, 赶紧来个人打死我得了.</Chinesesimp>
               <Japanese>やれやれ、どうしようもないな。</Japanese>
             </Key>
           </Container>
@@ -2886,7 +2886,7 @@
             <English>In preparation for a major assault on the main airport, Kerry coordinates FIA forces as NATO form up near Neochori.</English>
             <Portuguese>Em preparo para um grande ataque ao aeroporto principal, Kerry coordena as forças da FIA enquanto a OTAN se reúne perto de Neochori.</Portuguese>
             <Korean>주 공항을 향한 대규모공격의 준비를 위해, 케리가 네오호리 부근에서 FIA군과 NATO의 합류를 주선합니다.</Korean>
-            <Chinesesimp>为了准备对机场的主要突击, Kerry带着FIA部队与NATO在Neochori附近待命.</Chinesesimp>
+            <Chinesesimp>为了准备对机场的主要突击, Kerry在NATO部队向Neochori附近集结的同时调度起FIA的部队.</Chinesesimp>
             <Japanese>主要空港への大規模攻撃を前に、NATO軍がネオコリ周辺で隊列を組み直す中、ケリーはFIA部隊と合流する。</Japanese>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task09_wp">
@@ -3142,7 +3142,7 @@
             <English>SEIZE</English>
             <Portuguese>CAPTURE</Portuguese>
             <Korean>장악</Korean>
-            <Chinesesimp>肃清</Chinesesimp>
+            <Chinesesimp>占领</Chinesesimp>
             <Japanese>占拠</Japanese>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task04_title">
@@ -3158,7 +3158,7 @@
             <English>Seize the Complex</English>
             <Portuguese>Capture o complexo</Portuguese>
             <Korean>시설단지 장악하기</Korean>
-            <Chinesesimp>肃清工厂</Chinesesimp>
+            <Chinesesimp>占领工厂</Chinesesimp>
             <Japanese>コンビナートを占拠</Japanese>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task04_text">
@@ -3561,7 +3561,7 @@
               <English>The guys here have eyes on the barracks east of the factory, there may still be a Greenback garrison there.</English>
               <Portuguese>Os homens conseguem ver alojamentos a leste da fábrica. Ainda pode ter uma tropa dos Greenbacks lá.</Portuguese>
               <Korean>당소측 인원들이 공장 동쪽의 막사를 보고 있는데, 거기에 아직 그린백 놈들의 주둔지가 남아있을지도 모른다.</Korean>
-              <Chinesesimp>我们这里有观察到你们工厂的东边有一个军营, 那边还有一些绿军在活动.</Chinesesimp>
+              <Chinesesimp>我们这里有人观察到你们工厂的东边有一个军营, 那边可能还有一些绿军在活动.</Chinesesimp>
               <Japanese>こちらの人員がコンビナート東の兵舎を監視中だ。グリーンバックの駐屯部隊が残っている可能性がある。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_i05_securing_lz_abb_2">
@@ -3611,7 +3611,7 @@
               <English>Don't go rushing in on your own. Our job is to clear the way. You can take care of any infantry in the complex.</English>
               <Portuguese>Não vá com tudo sozinho. A nossa função é limpar o caminho. Você cuida das infantarias no complexo.</Portuguese>
               <Korean>혼자 돌격하지 마라. 우리의 임무는 길을 뚫는 거니까 단지에 있는 모든 보병을 처리하면 끝이야.</Korean>
-              <Chinesesimp>不要自己冲进去. 我们的工作室负责帮你们清出一条路. 你只要担心工厂里的敌兵就好了.</Chinesesimp>
+              <Chinesesimp>不要自己冲进去. 帮你们清出一条路是我们的活儿. 你只要担心工厂里的敌兵就好了.</Chinesesimp>
               <Japanese>単独で突っ走るなよ。我々の仕事は経路の敵を一掃することだ。コンビナート内の歩兵の始末は任せた。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_i01_combined_assault_aba_2">
@@ -3627,7 +3627,7 @@
               <English>If you see any AT troops in the area, make them your primary targets.</English>
               <Portuguese>Se avistar quaisquer tropas antitanques na área, elas devem ser seu alvo primário.</Portuguese>
               <Korean>지역에서 대전차병력을 발견하면, 놈들을 최우선 표적으로 처리하라.</Korean>
-              <Chinesesimp>假如你等下有看见任何的反坦克单位, 请优先处理掉他们.</Chinesesimp>
+              <Chinesesimp>你如果发现有反坦克单位, 请优先处理掉他们.</Chinesesimp>
               <Japanese>エリア内にAT部隊がいたら、そちらの排除を優先してくれ。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_i01_combined_assault_aba_3">
@@ -3643,7 +3643,7 @@
               <English>Once we seize the factory, we'll divert to the airbase. See you there. Echo-1 out.</English>
               <Portuguese>Depois de capturarmos a fábrica, vamos à base aérea. Até lá. Eco-1 desliga.</Portuguese>
               <Korean>공장을 장악한 후에는 공항으로 방향을 전환하겠다. 그럼 거기서 보기로 하지. 에코 하나, 이상.</Korean>
-              <Chinesesimp>一但我们肃清完工厂, 我们就会直接前往空军基地. 等下那里见. Echo-1通话完毕.</Chinesesimp>
+              <Chinesesimp>我们肃清完工厂之后就会直接前往空军基地. 等下那里见. Echo-1通话完毕.</Chinesesimp>
               <Japanese>コンビナートを占拠したら、方向転換して空軍基地に向かう。そっちで会おう。エコー-1、以上。</Japanese>
             </Key>
           </Container>
@@ -3845,7 +3845,7 @@
               <English>Goddammit, we hit that position hard! They must've just moved in.</English>
               <Portuguese>Puta merda, atacamos aquela posição com tudo! Eles devem ter acabado de invadir.</Portuguese>
               <Korean>제기랄, 그럼 그 지점을 공격해라! 분명 놈들이 거기 자리 잡은지 얼마 안 됐을 거야.</Korean>
-              <Chinesesimp>天杀的, 我们明明已经炸毁那里了! 他们一定才刚刚抵达.</Chinesesimp>
+              <Chinesesimp>天杀的, 我们明明已经把那儿轰平了! 他们一定才刚刚抵达.</Chinesesimp>
               <Japanese>なんだと！？そこは完ぺきに叩いたはずだ。新たに部隊を入れてきたか…。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_bhq_2">
@@ -3877,7 +3877,7 @@
               <English>Crossroads, this is Nomad. Golf-2-2's down. AA fire from point Texas, over.</English>
               <Portuguese>Encruzilhada, aqui é Nômade. Golfo-2-2 foi abatido. Disparo antiaéreo do ponto Texas. Câmbio.</Portuguese>
               <Korean>크로스로드, 여기는 노매드. 골프 둘둘이 추락했다. 텍사스 지점에서 대공포화가 날아왔다, 이상.</Korean>
-              <Chinesesimp>Crossroads, 这里是Nomad. Golf-2-2坠毁了. 防空火力是从Texas点传来, 完毕.</Chinesesimp>
+              <Chinesesimp>Crossroads, 这里是Nomad. Golf-2-2坠毁了. 防空火力是从Texas点打过来的, 完毕.</Chinesesimp>
               <Japanese>クロスローズ、こちらノマド。ゴルフ-2-2がやられた。ポイント・テキサスよりAA砲撃あり、どうぞ。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_bhq_3">
@@ -4045,7 +4045,7 @@
               <English>Echo-1 to Crossroads, we're in position, over.</English>
               <Portuguese>Eco-1 para Encruzilhada. Estamos em posição. Câmbio.</Portuguese>
               <Korean>에코 하나가 크로스로드에게, 위치 완료, 이상.</Korean>
-              <Chinesesimp>Echo-1致Crossroads, 我们就定位了, 完毕.</Chinesesimp>
+              <Chinesesimp>Echo-1致Crossroads, 我们就位了, 完毕.</Chinesesimp>
               <Japanese>エコー1からクロスローズへ、こちらは配置についた、どうぞ。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_15_support_ready_bhq_0">
@@ -4095,7 +4095,7 @@
               <English>That's Golf-2-2, our ride. It'll wait for us at that OP.</English>
               <Portuguese>Olha o Golfo-2-2, nossa carona. Eles vão nos esperar naquele ponto elevado.</Portuguese>
               <Korean>저게 골프 둘둘, 우리가 타고 갈 물건이지. OP에서 우리를 기다리릴 거야.</Korean>
-              <Chinesesimp>那是Golf-2-2, 等下负责接送我们的. 它会在那个等待点等我们.</Chinesesimp>
+              <Chinesesimp>那是Golf-2-2, 等下负责接送我们的. 它会在那个观察哨等我们.</Chinesesimp>
               <Japanese>あれがゴルフ-2-2、我々の輸送機だ。OPで待機している。</Japanese>
             </Key>
           </Container>
@@ -4177,7 +4177,7 @@
               <English>Okay, just so we're all on the same page, here's the plan.</English>
               <Portuguese>Certo, vamos deixar tudo esclarecido. O plano é o seguinte.</Portuguese>
               <Korean>좋아, 이제 모두에게 계획에 대해 설명해줄게.</Korean>
-              <Chinesesimp>好的, 让我在跟大家说明一次任务计划.</Chinesesimp>
+              <Chinesesimp>好的, 现在大家都跟上了，我再说一遍计划.</Chinesesimp>
               <Japanese>さて、全員の認識を共有するため、作戦を説明しよう。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_2">
@@ -4225,7 +4225,7 @@
               <English>As a matter of fact, he did: we've got a couple of APC's on standby, callsign Echo-1. They're waiting for the signal to move in.</English>
               <Portuguese>Na verdade, ele conseguiu: temos alguns VBTPs na espera, codinome Eco-1. Eles estão esperando o sinal para entrar.</Portuguese>
               <Korean>사실, 지원이 있어. 호출부호 에코 하나인 APC 몇 대가 대기 중이지. 진입할 신호만 기다리고 있을 걸?</Korean>
-              <Chinesesimp>事实上, 是有的: 我们有两辆装甲运兵车在待命中, 呼号是Echo-1. 他们会等待信号并一起攻击.</Chinesesimp>
+              <Chinesesimp>事实上, 是有的: 我们有几辆装甲运兵车在待命中, 呼号是Echo-1. 他们收到信号就跟我们一起上.</Chinesesimp>
               <Japanese>いや、大丈夫だ。APC部隊の援護がある。コールサインはエコー1だ。合図を待って突入する手筈になっている。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_5">
@@ -4241,7 +4241,7 @@
               <English>Right. So - once the factory is secure - we move to Stage Three. We'll get an airlift to the base and link up with the main assault.</English>
               <Portuguese>Certo. Então, quando a fábrica estiver protegida, vamos prosseguir para o estágio três. Vamos pegar uma carona até a base e nos justar ao assalto principal.</Portuguese>
               <Korean>그렇지. 그럼 공장을 확보한 다음에는 3단계로 넘어갈 거야. 기지까지 수송기를 타고 가서 주공과 합류하는 거지.</Korean>
-              <Chinesesimp>恩. 所以 - 当工厂安全之后 - 我们就会开始第三阶段. 我们会有空中运输在我们到机场, 并加入主要突击.</Chinesesimp>
+              <Chinesesimp>恩. 所以 - 当工厂安全之后 - 我们就会开始第三阶段. 我们会有空中运输把我们投送到机场, 并加入主要突击.</Chinesesimp>
               <Japanese>さて、コンビナートを確保したら、第3段階に移行だ。空輸機で基地まで移動し、主力攻撃に加わる。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_6">
@@ -4309,7 +4309,7 @@
               <English>Uh, I dunno. Could be. Second time's the charm, right?</English>
               <Portuguese>Err, não sei. Pode ser. É só na segunda vez que dá certo, né?</Portuguese>
               <Korean>음, 나야 모르지. 그럴 수도 있고. 이번에는 운이 좋을 수도 있잖아?</Korean>
-              <Chinesesimp>呵, 我不知道. 可能吧. 第二次总是最重要的, 对吧?</Chinesesimp>
+              <Chinesesimp>呵, 我不知道. 可能吧. 老话不是说不管干什么, 干两回总能干成嘛.</Chinesesimp>
               <Japanese>さあな…かもしれん。二度目の正直といけばいいがな。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_01_start_ker_1">
@@ -4357,7 +4357,7 @@
               <English>Sure. A cakewalk. ... Okay, man, that's my ride. Keep your head down.</English>
               <Portuguese>Claro. Vai ser moleza... Certo, cara, é a minha carona. Não atraia atenção.</Portuguese>
               <Korean>그렇겠지. 퍽이나 쉬운 일이겠네... 좋아, 친구. 내가 타고 갈 물건이 왔네. 몸 조심하라고.</Korean>
-              <Chinesesimp>恩. 小菜一碟. ... 好的, 老兄, 我的车到了. 保持安全啊.</Chinesesimp>
+              <Chinesesimp>行吧. 小菜一碟. ... 好的, 老兄, 我的车到了. 保持安全啊.</Chinesesimp>
               <Japanese>楽勝か。そうだな…おっと、迎えが来たようだ。頭を下げていろ。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_01_start_mem_1">
@@ -4373,7 +4373,7 @@
               <English>There is none. We gotta seize the harbor near the runway first.</English>
               <Portuguese>Não temos apoio. Precisamos capturar o porto perto da pista primeiro.</Portuguese>
               <Korean>그런 건 없어. 우선 활주로 근처에 있는 항구부터 장악해야 해.</Korean>
-              <Chinesesimp>应该如此. 但我们得先肃清跑道附近的港口.</Chinesesimp>
+              <Chinesesimp>不存在的. 我们得先肃清跑道附近的港口.</Chinesesimp>
               <Japanese>ここにはいない。まずは滑走路に近い港湾を占拠しなきゃならん。</Japanese>
             </Key>
             <Key ID="str_a3_c_m01_01_start_mem_2">
@@ -5032,7 +5032,7 @@
             <English>Having secured our eastern flank and supported a friendly squad, our forces were able to seize the capital and its surrounding fortifications. With enemy forces successfully cut in half - and the seat of political power under our control - it's a turning point in this conflict.</English>
             <Portuguese>Ao proteger o flanco leste e apoiar um grupo aliado, nossas forças conseguiram capturar a capital e as fortificações adjacentes. Com forças inimigas reduzidas pela metade e o poder político sob nosso controle, chegamos ao ponto crítico do conflito.</Portuguese>
             <Korean>동쪽 측면을 확보하고, 아군 분대를 지원한 덕분에 수도와 그 주변의 진지들을 장악했다. 적군을 양분시키는데 성공해서 정권이 우리 통제 하에 들어왔으니 이번 분쟁의 전환점이었다고 할 수도 있겠지.</Korean>
-            <Chinesesimp>由于你们成功肃清我方攻势东翼的威胁, 并协助我军步兵班, 我们的部队现在可以开始肃清首都及其四周的防御工事. 敌方的部队已经被我们切割成两半 - 而他们政权的象征也被我们控制住了 - 这场战役无疑是整个行动的转捩点.</Chinesesimp>
+            <Chinesesimp>由于你们成功肃清我方攻势东翼的威胁, 并协助我军步兵班, 我们的部队现在可以开始肃清首都及其四周的防御工事. 敌方的部队已经被我们切割成两半 - 而他们政权的象征也被我们控制住了 - 这场战役无疑是整个行动的转折点.</Chinesesimp>
             <Japanese>東側面を確保し、味方の分隊を支援することに成功した。その結果、我が軍部隊は首都と周辺要塞を掌握。敵部隊を見事分断し、政治の中枢を手中に収めることとなった。この紛争における大きな転機だ。</Japanese>
           </Key>
           <Key ID="str_a3_campaign_c_m02_debriefing_fail2">
@@ -5080,7 +5080,7 @@
             <English>With the help of the FIA, we were able to seize the main airport.%1%1We've been handed a major strategic advantage in this invasion, but we cannot give the AAF any time to breathe. Plus, with CSAT consolidating their forces in the north, we've managed to regroup and push deeper into enemy-controlled territory with little resistance.%1%1Now, we're poised to strike at Pyrgos: the capital city of Altis and their last true base of power. However, with one of the largest AAF bases nearby, it's a heavily fortified target. We'll launch a coordinated assault, securing both the base and the city.%1%1Cutting any remaining forces in two, we'll isolate our enemy in the north and south-west. Keep in mind: taking this objective will represent a significant blow to the Altis regime, and could help bring about a swift end to this conflict.</English>
             <Portuguese>Com a ajuda da FIA, conseguimos capturar o aeroporto principal%1%1Agora temos uma grande vantagem estratégica na invasão, mas dar folga à AAF. Além disso, com a consolidação das forças da CSAT no norte, conseguimos nos reagrupar e adentrar mais o território controlado pelo inimigo com pouca resistência.%1%1Agora estamos nos preparando para atacar Pyrgos, capital de Altis e a verdadeira base deles. Contudo, com uma das maiores bases da AAF por perto, é um alvo consideravelmente fortificado. Lançaremos um assalto coordenado, capturando tanto a base como a cidade.%1%1Vamos cortar ao meio as forças remanescentes e isolar o inimigo no norte e no sudoeste. Esteja ciente de que a execução do objetivo representará um golpe significativo ao regime de Altis e poderá ajudar a dar um fim rápido ao conflito.</Portuguese>
             <Korean>FIA의 도움으로 주 공항 장악에 성공했다.%1%1그로 인해 이번 침공에서 큰 전략적 이점을 지니게 됐지만, AAF에게 숨을 돌릴 틈을 줄 수는 없다. 게다가 CSAT는 북쪽에 자신들의 병력을 배치시키고 있으니, 약간의 저항만 뚫는다면 놈들을 적진 깊숙한 곳으로 몰아낼 수도 있을 것이다.%1%1현재, 우리는 알티스의 수도이자, 놈들의 진정한 권력기반인 피르고스를 타격할 준비를 진행 중이다. 하지만 그 근처에는 삼엄한 경계를 자랑하는 AAF의 가장 큰 기지 중 하나가 있지. 우리는 기지와 도시를 동시에 확보할 합동강습을 실시한다.%1%1적의 남은 병력을 둘로 단절시켜서 적들을 북쪽과 남서쪽으로 양분시키는 거다. 이번 임무에 성공하면 알티스 정권에 심각한 타격을 입히고, 이번 분쟁을 조기에 종결시키는데 도움이 될 수도 있다는 점을 명심하도록 하라.</Korean>
-            <Chinesesimp>在FIA的帮助下, 我们成功的夺得了主机场.%1%1我们已经在整个入侵行动中取得重大的优势, 但我们不能让AAF有喘息的机会. 此外, 由于CSAT退守到北部半岛, 这让我们有机会重整队伍, 并持续推进深入到敌军的领土上, 在整个推进过程中, 敌军少有抵抗.%1%1现在, 我们准备要对Pyrgos发动攻击: 该城市是Altis的首都, 也是其政权权力的最后象征. 然而, 该城的旁边有一个AAF最大的基地, 它的守备森严. 我们将会发动协同攻击, 同时对基地与首都展开突击.%1%1任务成功的话, 我们将能把敌人残余的部队切割成两半, 把他们各自独立在北方与西南方. 请记住: 夺下这个目标, 对Altis的政权来说会是一次重重的打击, 并且有可能会提前让战争结束.</Chinesesimp>
+            <Chinesesimp>在FIA的帮助下, 我们成功的夺得了主机场.%1%1我们已经在整个入侵行动中取得重大的优势, 但我们不能让AAF有喘息的机会. 此外, 由于CSAT退守到北部半岛, 这让我们有机会重整队伍, 并毫不费力地推进深入到敌军的领土上. %1%1现在, 我们准备要对Pyrgos发动攻击: 该城市是Altis的首都, 也是其政权权力的最后象征. 然而, 该城的旁边有一个AAF最大的基地, 它的守备森严. 我们将会发动协同攻击, 同时对基地与首都展开突击.%1%1任务成功的话, 我们将能把敌人残余的部队切割成两半, 把他们各自独立在北方与西南方. 请记住: 夺下这个目标, 对Altis的政权来说会是一次沉重打击, 并且有可能会让冲突更快结束.</Chinesesimp>
             <Japanese>FIAの援助により、我々は主要空港の占拠に成功した。%1%1この侵攻における決定的な戦略的優位を得たことになる。だが、AAFに息つくヒマを与えるわけにはいかない。さらに、CSATが部隊を北に結集しているため、我が軍は合流を果たし、わずかな抵抗のみで敵陣の奥深くまで進軍することができた。%1%1この勢いのまま、アルティスの首都ピルゴスに攻撃を仕掛ける。ピルゴスは敵の最後の砦だ。だが、付近にはAAF最大規模の基地があり、守りは非常に堅い。そこで、連携攻撃を仕掛け、基地と首都の両方を確保する。%1%1敵の残存兵力を分断すれば、北と南西の敵部隊は孤立する。今回の作戦が成功すれば、アルティス政権は大打撃を被るだろう。紛争の早期終結に向けても、大きな一歩となるはずだ。</Japanese>
           </Key>
           <Key ID="str_a3_campaign_c_m02_briefing_signal">
@@ -5161,7 +5161,7 @@
               <English>Sir, I've made visual contact with the tank, how copy?</English>
               <Portuguese>Senhor, fiz contato visual com o tanque. Copiou?</Portuguese>
               <Korean>전차가 육안으로 확인되었습니다. 들리십니까?</Korean>
-              <Chinesesimp>长官, 我已经发现到坦克了, 有收到吗?</Chinesesimp>
+              <Chinesesimp>长官, 我看到敌方坦克了, 收到没有?</Chinesesimp>
               <Japanese>サー、敵戦車を目視で確認。聞こえるか？</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_130_visualontank_lea_0">
@@ -5243,7 +5243,7 @@
               <English>This is how you repay us after we helped you, American?</English>
               <Portuguese>É assim que você agradece a nossa ajuda, americano?</Portuguese>
               <Korean>우리가 너희를 도와줬는데, 이딴 식으로 보답하는 건가, 미국인?</Korean>
-              <Chinesesimp>在我们帮助你那么多后, 这就是你回报我们的方式吗, 美国佬?</Chinesesimp>
+              <Chinesesimp>我们帮你那么多, 你就这么报答我们吗, 美国佬?</Chinesesimp>
               <Japanese>こっちは協力したってのに、その礼がこれか、アメリカ人？</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_x10_pyrgosbombardmentagain_nik_2">
@@ -5329,7 +5329,7 @@
               <English>You can try to take out the tank yourself, but it's highly discouraged in this situation.</English>
               <Portuguese>Você pode tentar acabar com o tanque sozinho, mas eu não recomendaria isso na situação atual.</Portuguese>
               <Korean>네가 직접 전차를 제거할 수도 있기는 하지만 현 상황에서 그런 행동은 별로 권하고 싶지 않군.</Korean>
-              <Chinesesimp>你可以试着自己摸掉坦克, 但这个难度会非常高.</Chinesesimp>
+              <Chinesesimp>你可以试着自己摸掉坦克, 但这个形势下我强烈建议别这么干.</Chinesesimp>
               <Japanese>まず、自力で戦車を始末するのは、この状況では得策とは言えん。</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_i10_tank_lea_2">
@@ -5659,7 +5659,7 @@
               <English>Requesting immediate support at our position! How copy? Over.</English>
               <Portuguese>Solicitando apoio imediato na nossa posição! Copiou? Câmbio.</Portuguese>
               <Korean>현 위치로 즉각 지원 바란다! 들었는가? 이상.</Korean>
-              <Chinesesimp>请求立即支援到我们的位置! 有收到吗? 完毕.</Chinesesimp>
+              <Chinesesimp>请求立即支援到我们的位置! 收到没有? 完毕.</Chinesesimp>
               <Japanese>至急こちらに支援を頼む！聞こえるか？どうぞ。</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_85_pinnedsquadhelp_bhq_0">
@@ -5777,7 +5777,7 @@
               <English>Crossroads, be advised, our fire-missions are striking civilian structures in Pyrgos, how copy?</English>
               <Portuguese>Encruzilhada, fique ciente de que nossas missões de fogo estão atacando estruturas civis em Pyrgos. Copiou?</Portuguese>
               <Korean>크로스로드에 알린다. 우리 사격임무가 피르고스의 민간인 구조물을 타격 중이다. 확인 바란다.</Korean>
-              <Chinesesimp>Crossroads, 请注意, 我们的火炮正在攻击Pyrgos的民房区, 有收到吗?</Chinesesimp>
+              <Chinesesimp>Crossroads, 请注意, 我们的火炮正在攻击Pyrgos的民用建筑, 有收到吗?</Chinesesimp>
               <Japanese>クロスローズ、報告する。我が軍の部隊がピルゴスの民間施設を砲撃している、聞こえるか？</Japanese>
             </Key>
           </Container>
@@ -5877,7 +5877,7 @@
               <English>Are you sure? We're engaging Greenback positions near the city, how copy?</English>
               <Portuguese>Tem certeza? Estamos enfrentando posições dos Greenbacks perto da cidade. Copiou?</Portuguese>
               <Korean>확실한 거야? 우리는 도시 근처에 있는 그린백 진지랑 교전하고 있는데?</Korean>
-              <Chinesesimp>你确定吗? 我们正在城市附近与绿军交战中, 有收到吗?</Chinesesimp>
+              <Chinesesimp>你确定吗? 我们正在城市附近与绿军交战中, 收到没有?</Chinesesimp>
               <Japanese>それは確かか？現在の攻撃目標は、首都近くのグリーンバック陣地のはずだ、聞こえるか？</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_60_anunexpectedcallfia_nik_0">
@@ -5893,7 +5893,7 @@
               <English>Shit, Kerry, come in! This is Nikos.</English>
               <Portuguese>Que merda, Kerry, responda! Aqui é Nikos.</Portuguese>
               <Korean>젠장, 케리, 응답해! 여기는 니코스.</Korean>
-              <Chinesesimp>该死, Kerry, 接进! 这里是Nikos.</Chinesesimp>
+              <Chinesesimp>该死, Kerry, 跟我说话! 这里是Nikos.</Chinesesimp>
               <Japanese>クソッ、ケリー、応答しろ！こちらニコス。</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_60_anunexpectedcallfia_ker_2">
@@ -6061,7 +6061,7 @@
               <English>It's getting stronger!</English>
               <Portuguese>Está ficando mais forte!</Portuguese>
               <Korean>점점 더 심해지는 것 같습니다!</Korean>
-              <Chinesesimp>它越摇越大了!</Chinesesimp>
+              <Chinesesimp>震得越来越厉害了!</Chinesesimp>
               <Japanese>どんどん揺れが強くなってやがる！</Japanese>
             </Key>
           </Container>
@@ -6297,7 +6297,7 @@
               <English>Crossroads, we're moving on our objective, how copy? Over.</English>
               <Portuguese>Encruzilhada, estamos a caminho do objetivo. Copiou? Câmbio.</Portuguese>
               <Korean>크로스로드, 목표로 이동 중이다. 확인 했는지? 이상.</Korean>
-              <Chinesesimp>Crossroads, 我们正前往我们的目标当中, 有收到吗? 完毕.</Chinesesimp>
+              <Chinesesimp>Crossroads, 我们正前往我们的目标当中, 收到没有? 完毕.</Chinesesimp>
               <Japanese>クロスローズ、目標に向かっている、聞こえるか？どうぞ。</Japanese>
             </Key>
           </Container>
@@ -6415,7 +6415,7 @@
               <English>Get to cover and return fire!</English>
               <Portuguese>Procurem cobertura e revidem!</Portuguese>
               <Korean>엄폐 후 응사하라!</Korean>
-              <Chinesesimp>在四处找掩护并开始回击!</Chinesesimp>
+              <Chinesesimp>找好掩体, 开始回击!</Chinesesimp>
               <Japanese>遮蔽物の陰に！応戦するぞ！</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_15_ambushgroup_mem_0">
@@ -6499,7 +6499,7 @@
               <English>Good job, Kerry. Stay put. We're advancing now. Out.</English>
               <Portuguese>Bom trabalho, Kerry. Fique quieto. Estamos avançando agora. Desligo.</Portuguese>
               <Korean>잘 했다, 케리. 거기 그대로 있어라. 지금 진격하겠다. 이상.</Korean>
-              <Chinesesimp>干的好, Kerry. 留在原地. 我们正在推进了. 通话完毕.</Chinesesimp>
+              <Chinesesimp>干得好, Kerry. 留在原地. 我们正在推进了. 通话完毕.</Chinesesimp>
               <Japanese>よくやった、ケリー。その場で待て。こちらは進軍する。以上。</Japanese>
             </Key>
           </Container>
@@ -6533,7 +6533,7 @@
               <English>Crossroads, requesting a fire mission at the designated coordinates, how copy? Over.</English>
               <Portuguese>Encruzilhada, solicitando uma missão de fogo nas coordenadas designadas. Copiou? Câmbio.</Portuguese>
               <Korean>크로스로드, 지정된 좌표로 사격임무를 요청한다. 들었는가? 이상.</Korean>
-              <Chinesesimp>Crossroads, 请求火炮轰炸在指定的座标, 有收到吗? 完毕.</Chinesesimp>
+              <Chinesesimp>Crossroads, 请求火炮轰炸在指定的座标, 收到没有? 完毕.</Chinesesimp>
               <Japanese>クロスローズ、指定の座標に砲撃を要請、聞こえるか？どうぞ。</Japanese>
             </Key>
           </Container>
@@ -6853,7 +6853,7 @@
               <English>Crossroads to Nomad. Message. If you encounter Captain Miller or one of his teams, you are not authorized to provide assistance. How copy?</English>
               <Portuguese>Encruzilhada para Nômade. Mensagem. Se encontrar o Capitão Miller ou uma das equipes dele, você não está autorizado a oferecer assistência. Copiou?</Portuguese>
               <Korean>크로스로드가 노매드에게, 전언이다. 밀러 대위나 그의 부하들과 조우할 경우, 그들을 지원하는 건 허가하지 않는다. 알아들었나?</Korean>
-              <Chinesesimp>Crossroads致Nomad. 讯息. 假如你遇见了上尉Miller或是他的队员, 你没有被授权可以帮助他们. 有收到吗?</Chinesesimp>
+              <Chinesesimp>Crossroads致Nomad. 有消息. 如果你遇见了Miller上校或是他的队员, 不准帮助他们. 收到没有?</Chinesesimp>
               <Japanese>クロスローズからノマドへ。連絡事項だ。もしミラー大佐やそのチームと遭遇しても、援助はするな。いいか？</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_102_investigationexplained_bhq_1">
@@ -6869,7 +6869,7 @@
               <English>You will stay the hell away from those Brits and their black ops bullshit, Corporal. Do you understand?</English>
               <Portuguese>Nem chegue perto dos britânicos e da operação secreta fajuta deles, Cabo. Entendido?</Portuguese>
               <Korean>그 영국놈들이나 비밀작전 같은 개소리에 말려들지 말란 말이다, 상병. 이해 했나?</Korean>
-              <Chinesesimp>你必须远离那些天杀的英国人与他们的秘密任务, 下士. 你了解了吗?</Chinesesimp>
+              <Chinesesimp>你离那些天杀的英国佬与他们的狗屁秘密行动远点, 下士. 明白没?</Chinesesimp>
               <Japanese>あのイギリス人とその隠密部隊とは関わるな、と言っているんだ。わかったな？</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_102_investigationexplained_bhq_2">
@@ -6985,7 +6985,7 @@
               <English>NATO MEDCOM has finally confirmed the identity of Captain Miller. Over.</English>
               <Portuguese>A MEDCOM da OTAN finalmente confirmou a identidade do Capitão Miller. Câmbio.</Portuguese>
               <Korean>NATO MEDCOM에서 드디어 밀러 대위의 신원을 확인했다는군. 이상.</Korean>
-              <Chinesesimp>NATO的地中海通信系统终于确认了上尉Miller的身分. 完毕.</Chinesesimp>
+              <Chinesesimp>NATO的地中海通信系统终于确认了Miller上校的身份. 完毕.</Chinesesimp>
               <Japanese>NATO衛生司令部はミラー大佐の素性を確認。どうぞ。</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_07_investigationclosed_ker_0">
@@ -7017,7 +7017,7 @@
               <English>Listen, Nomad, the details go way beyond your pay grade. Suffice to say, command wants you to remain on active duty.</English>
               <Portuguese>Escute, Nômade. Os detalhes estão acima da sua patente. Só basta saber que o comando quer que você continue em serviço.</Portuguese>
               <Korean>잘 들어, 노매드. 세부사항은 너같은 사병이 알 수 있는 정보가 아니다. 그냥, 사령부에서 널 계속 현역으로 남겨두고 싶어한다고만 알고 있어.</Korean>
-              <Chinesesimp>听着, Nomad, 这个细节已经不是你的阶级所能知道的. 我只是想跟你说, 指挥官希望你能继续留下来执行任务.</Chinesesimp>
+              <Chinesesimp>听着, Nomad, 以你的阶级根本无权得知这事的细节. 我只能跟你说, 指挥部希望你能继续留下来执行任务.</Chinesesimp>
               <Japanese>それを知る権限は君にはない、ノマド。とにかく、司令部は君の任を解くつもりはない、これだけ伝えれば十分だろう。</Japanese>
             </Key>
             <Key ID="str_a3_c_m02_07_investigationclosed_ker_1">
@@ -7033,7 +7033,7 @@
               <English>Confirmed? Confirmed as what, sir?</English>
               <Portuguese>Confirmou? Confirmou como o que, senhor?</Portuguese>
               <Korean>확인? 뭐가 어떻게 확인됐다는 겁니까?</Korean>
-              <Chinesesimp>确认? 所以他的身分是, 长官?</Chinesesimp>
+              <Chinesesimp>确认了? 那他的身份是什么, 长官?</Chinesesimp>
               <Japanese>確認？それで…結果は？</Japanese>
             </Key>
           </Container>
@@ -7619,7 +7619,7 @@
               <English>Nomad, dismount! Enemy vehicle ahead.</English>
               <Portuguese>Nômade, desça! Veículo inimigo adiante.</Portuguese>
               <Korean>노매드, 하차하라! 전방에 적 차량이다.</Korean>
-              <Chinesesimp>Nomad, 下车! 敌军载具距离我们很近.</Chinesesimp>
+              <Chinesesimp>Nomad, 下车! 敌军载具就在正前方.</Chinesesimp>
               <Japanese>ノマド、降りろ！前方に敵車両！</Japanese>
             </Key>
           </Container>
@@ -7825,7 +7825,7 @@
               <English>All teams, be advised, Nomad's handling the enemy Gorgon at Kappa. Out.</English>
               <Portuguese>Todas as equipes, fiquem cientes de que Nômade está combatendo um Gorgon inimigo em Kappa. Desligo.</Portuguese>
               <Korean>전 병력에 알린다. 카파에서 노매드가 적의 고르곤을 몰고 있다. 이상.</Korean>
-              <Chinesesimp>所有小队, 请注意, Nomad小队在Kappa截获了一台Gorgon. 通话完毕.</Chinesesimp>
+              <Chinesesimp>所有小队, 请注意, Nomad小队正在处理那台在Kappa的Gorgon装甲车. 通话完毕.</Chinesesimp>
               <Japanese>全チームへ、報告する、ノマドはカッパにて敵ゴルゴンと交戦中。以上。</Japanese>
             </Key>
           </Container>
@@ -7859,7 +7859,7 @@
               <English>Intel suggests IFVs. Use the drone at your disposal. Recon the area before you advance.</English>
               <Portuguese>A inteligência sugere que são IFVs. Use o avião teleguiado à sua disposição. Faça reconhecimento da área antes de avançar.</Portuguese>
               <Korean>정보에 따르면 IFV라고 한다. 필요할 경우, 무인기를 활용해 진격하기 전에 지역을 정찰하도록.</Korean>
-              <Chinesesimp>应该是步兵战车. 空中无人载具任由你使用. 你可以先侦察该去, 再决定肃清方针.</Chinesesimp>
+              <Chinesesimp>应该是步兵战车. 你可以随意使用无人机. 推进之前先侦查好那片区域.</Chinesesimp>
               <Japanese>情報では、IFVとのことだ。無人機を使うといい。エリアを偵察してから進め。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_i15_enemyvehicle_ker_0">
@@ -7891,7 +7891,7 @@
               <English>You can go in directly, but remember, you've got artillery on station. Laser targeting with a drone might be the safest way to proceed.</English>
               <Portuguese>Você pode entrar diretamente, mas lembre-se de que há artilharia na estação. Marcar o alvo com laser usando um avião teleguiado deve ser a forma mais rápida para prosseguir.</Portuguese>
               <Korean>아니면 그냥 들어갈 수도 있지만, 야포도 대기 중이라는 걸 잊지 마라. 무인기로 레이저 표적 지정을 하는 게 가장 안전한 방법일 수도 있다.</Korean>
-              <Chinesesimp>你也可以直接进去, 但请记住, 你现在有火炮支援在待命中. 你可以使用空中无人载具的雷射来为炮兵进行引导作业, 这可能比较安全.</Chinesesimp>
+              <Chinesesimp>你也可以直接进去, 但请记住, 你现在有火炮支援在待命中. 你可以用无人机来为炮兵进行激光制导, 这可能是最安全的方式.</Chinesesimp>
               <Japanese>直接突入してもいいが、砲撃部隊も待機している。無人機のレーザー標的を使うのが最も安全だろう。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_i15_enemyvehicle_ker_1">
@@ -7941,7 +7941,7 @@
               <English>Nomad, be advise, enemy marksmen were neutralized at the solar complex.</English>
               <Portuguese>Nômade, fique ciente de que atiradores inimigos foram neutralizados no complexo de energia solar.</Portuguese>
               <Korean>노매드에 알린다. 태양열발전단지에 있던 적 저격수가 무력화되었다.</Korean>
-              <Chinesesimp>Nomad, 请注意, 敌军的狙击手已在太阳能发电站中被歼灭.</Chinesesimp>
+              <Chinesesimp>Nomad, 请注意, 敌军的精确射手已在太阳能发电站中被歼灭.</Chinesesimp>
               <Japanese>ノマド、報告する。ソーラー発電所で敵射撃手を無力化した。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_i10_snipers_bhq_1">
@@ -7975,7 +7975,7 @@
               <English>Affirmative, Nomad. Put it to good use. Remember, combining artillery with the UAV will give you the upper hand in this operation.</English>
               <Portuguese>Afirmativo, Nômade. Faça bom proveito. Lembre-se de combinar artilharia com o VANT para ter vantagem na operação.</Portuguese>
               <Korean>그렇다, 노매드. 잘 써먹도록 하라. 무인기와 야포를 조합해서 활용하면 이번 작전에서 우위를 거머쥘 수 있다는 걸 명심하도록.</Korean>
-              <Chinesesimp>是的, Nomad. 请好好使用它. 请记住, 使用空中无人载具为你的火炮进行观测, 将可为你占得先机.</Chinesesimp>
+              <Chinesesimp>是的, Nomad. 请好好使用它. 请记住, 把无人机和火炮结合使用, 将可为你占得先机.</Chinesesimp>
               <Japanese>可能だ、ノマド。有効に活用しろ。いいか、砲撃とUAVを併用すれば、この作戦で優位に立つことができる。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_i05_uav_bhq_1">
@@ -8007,7 +8007,7 @@
               <English>Crossroads, interrogative, we got a drone at our disposal? Over.</English>
               <Portuguese>Encruzilhada, uma pergunta. Temos um teleguiado disponível? Câmbio.</Portuguese>
               <Korean>크로스로드, 질문이 있다. 혹시 무인기를 사용할 수 있는가? 이상.</Korean>
-              <Chinesesimp>Crossroads, 我有疑问, 我们是否有一台空中无人载具可供我们使用? 完毕.</Chinesesimp>
+              <Chinesesimp>Crossroads, 我有疑问, 我们是否有一台无人机可供我们使用? 完毕.</Chinesesimp>
               <Japanese>クロスローズ、質問する。無人機は自由に使用可能か？どうぞ。</Japanese>
             </Key>
           </Container>
@@ -8041,7 +8041,7 @@
               <English>Confirm your targets, you've got friendlies operating in your AO! Out.</English>
               <Portuguese>Confirmem seus alvos. Há aliados na sua área de operações! Desligo.</Portuguese>
               <Korean>표적을 확인하라. 그쪽 작전지역에서 다른 아군도 작전 중이다! 이상.</Korean>
-              <Chinesesimp>开火前请先确认目标, 请勿误击在同个行动区域内的友军! 通话完毕.</Chinesesimp>
+              <Chinesesimp>开火前请先确认目标, 你的行动区域内有友军! 通话完毕.</Chinesesimp>
               <Japanese>作戦区域には友軍もいる、標的をよく確認するように。以上。</Japanese>
             </Key>
           </Container>
@@ -8211,7 +8211,7 @@
               <English>Crossroads to Nomad, status report. Over.</English>
               <Portuguese>Encruzilhada para Nômade, relatório da situação. Câmbio.</Portuguese>
               <Korean>크로스로드가 노매드에게, 상황보고하라. 이상.</Korean>
-              <Chinesesimp>Crossroads致Nomad, 状况回报. 完毕.</Chinesesimp>
+              <Chinesesimp>Crossroads致Nomad, 汇报状况. 完毕.</Chinesesimp>
               <Japanese>クロスローズからノマドへ、状況報告を。どうぞ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_43_earthquakereport_bhq_1">
@@ -8227,7 +8227,7 @@
               <English>We don't know - MEDCOM's got no idea what's causing it - according to seismic monitoring, this is abnormal activity.</English>
               <Portuguese>Não sabemos. A MEDCOM não faz ideia do que está causando isso. De acordo com o monitoramento sísmico, a atividade é anormal.</Portuguese>
               <Korean>우리도 모르겠다. MEDCOM에서도 원인을 모르고 있다. 지진관측에 의하면 뭔가 비정상적인 활동인 것 같다.</Korean>
-              <Chinesesimp>我们不知道 - 地中海通信系统并不知道是什么原因导致地震发生的 - 根据地震监测, 这种现象极为不正常.</Chinesesimp>
+              <Chinesesimp>我们不知道 - 地中海通信系统并不知道是什么原因导致地震发生的 - 根据地震监测, 这地震活动很异常.</Chinesesimp>
               <Japanese>わからん。衛生司令部もこの地震の原因を掴めていない。地震モニタリングによれば、ありえない現象だ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_43_earthquakereport_ker_0">
@@ -8259,7 +8259,7 @@
               <English>This was the strongest one yet. If it carries on like this, we'll have no island to fight for. Out.</English>
               <Portuguese>Este último foi o mais forte. Se continuar assim, não vamos ter mais ilha para defender. Desligo.</Portuguese>
               <Korean>여태까지 중에 가장 강력한 지진이었다. 계속 이런 식으로 가다간 싸울 섬도 없어지게 생겼다. 이상.</Korean>
-              <Chinesesimp>这次又比上次大了. 假如它这样继续变大下去, 迟早我们就会没有岛屿可以供我们打仗了. 通话完毕.</Chinesesimp>
+              <Chinesesimp>到现在这次震得最厉害. 要是地震再这么闹下去, 迟早我们就不用再争什么岛了. 通话完毕.</Chinesesimp>
               <Japanese>さっきのは今までで一番の揺れだった。この調子じゃ、しまいには奪い合ってたはずの島がなくなりかねませんな。以上。</Japanese>
             </Key>
           </Container>
@@ -8345,7 +8345,7 @@
               <English>Copy that. Nomad, Charlie-2-3, dig in at Gamma. Set up a defensive perimeter. Hold that position.</English>
               <Portuguese>Copiado. Nômade, Charlie-2-3, reforcem a posição em Gama. Preparem um perímetro defensivo. Mantenham a posição.</Portuguese>
               <Korean>들었다. 노매드, 찰리 둘삼, 감마에 대기하라. 방어선을 구축하고, 현 위치를 사수하도록.</Korean>
-              <Chinesesimp>收到, Nomad. Charlie-2-3, 请留守Gamma. 建立防守范围. 坚守该位置.</Chinesesimp>
+              <Chinesesimp>收到, Nomad. Charlie-2-3, 请留守Gamma. 建立防御圈. 坚守该位置.</Chinesesimp>
               <Japanese>了解、ノマド。チャーリー-2-3、ガンマに留まり、防衛線を設置せよ。陣地を守れ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out1_35_solarpowersecure_bhq_1">
@@ -8493,7 +8493,7 @@
               <English>Troops on the ground! Moving out.</English>
               <Portuguese>Tropas em terra! Estou saindo.</Portuguese>
               <Korean>병력 배치 완료! 이탈하겠다.</Korean>
-              <Chinesesimp>部队在地面了! 撤离中.</Chinesesimp>
+              <Chinesesimp>部队投送到地面了! 该出发了.</Chinesesimp>
               <Japanese>部隊を地上へ送り届けた！これより離脱する。</Japanese>
             </Key>
           </Container>
@@ -8511,7 +8511,7 @@
               <English>Everyone, out of the chopper, go!</English>
               <Portuguese>Homens, saiam do helicóptero! Agora!</Portuguese>
               <Korean>전원, 헬기에서 내린다! 실시!</Korean>
-              <Chinesesimp>所有人, 全部给我下机, 走!</Chinesesimp>
+              <Chinesesimp>所有人, 下直升机, 上!</Chinesesimp>
               <Japanese>全員、ヘリを出ろ、急げ！</Japanese>
             </Key>
           </Container>
@@ -8529,7 +8529,7 @@
               <English>Touch down! Go, go, go!</English>
               <Portuguese>Pousamos! Rápido, rápido!</Portuguese>
               <Korean>착지했다! 내려, 내려!</Korean>
-              <Chinesesimp>着陆! 走, 走, 走!</Chinesesimp>
+              <Chinesesimp>着陆! 快, 快, 快!</Chinesesimp>
               <Japanese>着陸！行け、さあ早く！</Japanese>
             </Key>
           </Container>
@@ -8764,7 +8764,7 @@
             <English>With %1Paros%2 and %3Kalochori%4 secured, the AAF are in full retreat, forced north to %5Ioannina%6.%7They're in a pinch - maybe looking to buy some time - and intel believes they're regrouping in preparation for a last-ditch counterattack. Command is likely to issue the order to push north within the next few hours.%8Last we heard, negotiations with CSAT have been proceeding unimpeded, though it's unclear exactly how successful they're proving to be. For now, CSAT forces are officially no longer actively participating in AAF operations.</English>
             <Portuguese>Com %1Paros%2 e %3Kalochori%4 capturados, a AAF está em retirada completa, seguindo ao norte para %5Ioannina%6.%7Eles estão encurralados, talvez estejam querendo conseguir mais tempo. Segundo a inteligência, eles estão se reagrupando para lançar um último contra-ataque. O comando deve ter a ordem para avançarmos para o norte nas próximas horas.%8A última notícia foi de que as negociações com a CSAT estão correndo bem, mas ainda não temos certeza se vão dar certo. Por ora, é oficial que as forças da CSAT não estão mais participando ativamente das operações da AAF.</Portuguese>
             <Korean>%1파로스%2와 %3칼로호리%4를 확보함으로써, AAF는 %5이오안니나%6 북쪽으로 전면적인 퇴각을 할 수밖에 없게 됐다.%7놈들은 궁지에 몰렸으니 시간이라도 벌어보겠다는 속셈일 테고, 정보부에서는 놈들이 최후의 반격을 준비하러 재집결하는 거라고 믿고 있다. 다음 몇 시간 내로 사령부에서 북쪽으로 진군하라는 명령이 하달될 확률이 높지.%8결과가 어떻게 나올지는 모르겠다만 CSAT와의 협상도 별 다른 문제 없이 잘 진행되고 있다는 소식이다. 현재로써는 CSAT군이 AAF의 작전에 직접 참여하는 경우는 공식적으로 없을 거라는 말이지.</Korean>
-            <Chinesesimp>在%1Paros%2与%3Kalochori%4被我们夺下来后, AAF剩余的部队开始进行全面撤退, 退守至%5Ioannina%6.%7虽然那边的部队不是很多, 不过他们有可能只是想拖延一点时间, 好让其他的部队可以来得及整合, 做最后的大反攻. 为了不给他们这个机会, 指挥官很有可能会在几小时候就发布向北推进的命令.%8根据我们最后所听到的情报, 我们与CSAT的谈判已逐渐顺利, 虽然我们也不知道上头的长官是如何去做协商的. 不过至少确定的是, CSAT部队已经不会再帮忙AAF部队了.</Chinesesimp>
+            <Chinesesimp>在%1Paros%2与%3Kalochori%4被我们夺下来后, AAF剩余的部队开始进行全面撤退, 退守至%5Ioannina%6.%7虽然那边的部队不是很多, 不过他们有可能只是想拖延一点时间, 好让其他的部队可以来得及整合, 做最后的大反攻. 为了不给他们这个机会, 指挥部很有可能会在几小时候就发布向北推进的命令.%8根据我们最后所听到的情报, 我们与CSAT的谈判非常顺利, 虽然我们也不知道上头协商得多成功就是了. 不过至少确定的是, CSAT部队已经不会再积极参与AAF的行动了.</Chinesesimp>
             <Japanese>我が軍は%1パロス%2と%3カロコリ%4を占拠。これによりAAFは北部%5ヨアニナ%6に総撤退を余儀なくされた。%7窮地に立たされたAAFは時間稼ぎを狙いつつ、情報によれば合流して最後の反撃に出る構えだ。数時間後には、司令部が北への進軍命令を出すだろう。%8最後に聞いた話では、CSATとの交渉はスムーズに進んでいる。だが、その成果のほどはまだ不明だ。少なくとも今のところ、CSAT部隊は公式にはAAFの作戦に参加していない。</Japanese>
           </Key>
           <Key ID="str_a3_c_out2_bis_regroup_title">
@@ -8908,7 +8908,7 @@
             <English>Once you have the truck, deliver it to %1Miller%2.</English>
             <Portuguese>Quando conseguir o caminhão, entregue-o a %1Miller%2.</Portuguese>
             <Korean>트럭을 확보했다면, %1밀러%2에게 가져가라.</Korean>
-            <Chinesesimp>等你拿到卡车后, 把它开去给%1Miller%2.</Chinesesimp>
+            <Chinesesimp>等你拿到卡车后, 把它送给%1Miller%2.</Chinesesimp>
             <Japanese>トラックを入手したら、%1ミラー%2のもとに届けろ。</Japanese>
           </Key>
           <Key ID="str_a3_c_out2_bis_device_title">
@@ -9069,7 +9069,7 @@
               <English>Do you think you... Made enough noise, Kerry? ...</English>
               <Portuguese>Você acha que... fez barulho suficiente, Kerry?</Portuguese>
               <Korean>그 정도면... 꽤나 소란을 피웠다고 생각하지 않냐, 케리?...</Korean>
-              <Chinesesimp>你不觉得你... 噪音有点弄得太多了, Kerry? ...</Chinesesimp>
+              <Chinesesimp>你不觉得你... 动静弄得太大了, Kerry? ...</Chinesesimp>
               <Japanese>ノイズは十分だろうな…ケリー？…</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_2">
@@ -9101,7 +9101,7 @@
               <English>Lieutenant! Yeah, it's me. I'm in this... Actually, I don't know what the hell it is. A truck carrying something.</English>
               <Portuguese>Tenente! É, sou eu. Estou aqui no... Na verdade, não faço ideia de onde estou. Estou num caminhão carregando algo.</Portuguese>
               <Korean>중위님! 네, 저 맞습니다. 지금... 사실 이게 대체 다 무슨 일인지도 모르겠네요. 트럭에 뭔가가 실려있어요.</Korean>
-              <Chinesesimp>上尉! 是, 是我. 我在这台... 事实上, 我不知道这是啥鬼东西. 这台卡车好像载着些什么.</Chinesesimp>
+              <Chinesesimp>上尉! 是, 是我. 我在这辆... 事实上, 我也不知道这是辆啥鬼东西. 反正是一辆不知道载着什么东西的卡车.</Chinesesimp>
               <Japanese>大尉！ああ、こちらケリー。今こいつに乗って…そもそも、こいつは一体？何か積まれているようだが。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_3">
@@ -9117,7 +9117,7 @@
               <English>Forget about that... Kerry... I'm done for...</English>
               <Portuguese>Deixe isso para lá... Kerry... Já vou esticar as canelas...</Portuguese>
               <Korean>그건 집어치워... 케리... 난 이미 틀렸어...</Korean>
-              <Chinesesimp>忘了我吧... Kerry... 我已经差不多了...</Chinesesimp>
+              <Chinesesimp>算了吧... Kerry... 我已经完蛋了...</Chinesesimp>
               <Japanese>俺のことはいい…ケリー…俺はもうダメだ…</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_ker_1">
@@ -9133,7 +9133,7 @@
               <English>No, not before I come pick you up.</English>
               <Portuguese>Não, não antes de eu ir aí buscá-lo.</Portuguese>
               <Korean>아니요, 중위님을 데리러 가겠습니다.</Korean>
-              <Chinesesimp>不, 在我接到你之前我哪也不会去.</Chinesesimp>
+              <Chinesesimp>不, 你不会完蛋的, 我马上来接你.</Chinesesimp>
               <Japanese>ダメだ！今迎えに行く、それまで…</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_ker_2">
@@ -9185,7 +9185,7 @@
               <English>That's it from Delta-3. All units, move in!</English>
               <Portuguese>É o sinal de Delta-3. Todas as unidades, avancem!</Portuguese>
               <Korean>델타 삼의 탄이 떨어졌다. 전 병력, 진입하라!</Korean>
-              <Chinesesimp>Delta-3弹药用完. 所有单位, 开始推进!</Chinesesimp>
+              <Chinesesimp>Delta-3都砸光了. 所有单位, 开始推进!</Chinesesimp>
               <Japanese>デルタ-3が弾切れだ。全部隊、移動！</Japanese>
             </Key>
           </Container>
@@ -9203,7 +9203,7 @@
               <English>Stay alert out there, Kerry. Echo hit them hard, but don't be surprised if you run into some stragglers.</English>
               <Portuguese>Fique alerta lá fora, Kerry. Eco, ataque com tudo, mas tenha cuidado com possíveis retardatários.</Portuguese>
               <Korean>주의해라, 케리. 에코가 놈들에게 포격을 퍼부었어도 아직 살아있는 놈들이 있을 수도 있어.</Korean>
-              <Chinesesimp>在那边请随时保持警戒, Kerry. Echo已经重重打击过他们了, 但当你遇到些散兵时请不要太惊讶.</Chinesesimp>
+              <Chinesesimp>在那边请随时保持警戒, Kerry. Echo已经重重打击过他们了, 但你要是遇到散兵游勇也别太意外.</Chinesesimp>
               <Japanese>気をつけろ、ケリー。エコーが徹底的に叩きはしたが、敗残兵が残っていてもおかしくない。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_i01_scouting_bhq_1">
@@ -9219,7 +9219,7 @@
               <English>Pay close attention to the hills. They might be doing some recon of their own.</English>
               <Portuguese>Preste atenção aos montes. O inimigo também pode estar fazendo reconhecimento.</Portuguese>
               <Korean>언덕을 잘 살펴봐. 놈들도 정찰을 하고 있을 가능성이 있으니까 말이다.</Korean>
-              <Chinesesimp>请密切注意那个山. 他们可能有人在那山上做侦察.</Chinesesimp>
+              <Chinesesimp>请密切注意那些小山头. 他们可能有人在那山上做侦察.</Chinesesimp>
               <Japanese>丘に注意しろ。敵もこちらを偵察しているはずだ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_i01_scouting_bhq_2">
@@ -9235,7 +9235,7 @@
               <English>Avoid contact as much as possible. Get to the OP and call out fire missions for Delta. Out.</English>
               <Portuguese>Evite contato sempre que possível. Vá ao ponto elevado e peça missões de fogo a Delta. Desligo.</Portuguese>
               <Korean>최대한 교전은 피하도록 해. 관측점으로 가서 델타에게 사격임무를 요청하도록. 이상.</Korean>
-              <Chinesesimp>请尽量避免交战. 移动到侦察点并呼叫Delta进行火炮轰炸. 通话完毕.</Chinesesimp>
+              <Chinesesimp>请尽量避免交战. 移动到观察哨并呼叫Delta进行火炮轰炸. 通话完毕.</Chinesesimp>
               <Japanese>接触はできるだけ避けろ。OPに向かい、デルタに砲撃を要請せよ。以上。</Japanese>
             </Key>
           </Container>
@@ -9285,7 +9285,7 @@
               <English>All units! Multiple hostile aircraft inbound!</English>
               <Portuguese>Todas as unidades! Várias aeronaves hostis a caminho!</Portuguese>
               <Korean>전 병력! 다수의 적 항공기가 접근한다!</Korean>
-              <Chinesesimp>所有单位! 多名敌方飞机靠近中!</Chinesesimp>
+              <Chinesesimp>所有单位! 多架敌方飞机正在接近!</Chinesesimp>
               <Japanese>全部隊へ！敵航空機が複数、接近中！</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_85_the_end_of_all_things_bhq_1">
@@ -9367,7 +9367,7 @@
               <English>I'll tell you what.</English>
               <Portuguese>Quer saber?</Portuguese>
               <Korean>뭐 하나 알려주지.</Korean>
-              <Chinesesimp>我会告诉你为什么.</Chinesesimp>
+              <Chinesesimp>我跟你说.</Chinesesimp>
               <Japanese>こうしよう。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_80_return_mil_1">
@@ -9399,7 +9399,7 @@
               <English>Things are about to get ugly. I'd suggest you keep your head down.</English>
               <Portuguese>O bicho vai pegar. Recomendo não atrair atenção.</Portuguese>
               <Korean>상황이 좀 더러워질 거야. 내가 너라면 총 맞지 않게 조심할 거다.</Korean>
-              <Chinesesimp>局势将会变得很恶劣. 我建议你最好低调点.</Chinesesimp>
+              <Chinesesimp>局势将会闹得很难看. 我建议你最好低调点.</Chinesesimp>
               <Japanese>状況は悪化しつつある。悪いことは言わん、身を低くしていろ。</Japanese>
             </Key>
           </Container>
@@ -9483,7 +9483,7 @@
               <English>Not so fast. I think you owe me some answers.</English>
               <Portuguese>Não tão rápido. Você me deve umas respostas.</Portuguese>
               <Korean>벌써 가실 수야 없죠. 저한테 몇 가지 대답을 좀 해주시고 가시죠?</Korean>
-              <Chinesesimp>不要那么急. 我认为你还欠我一些答案.</Chinesesimp>
+              <Chinesesimp>别那么急. 我认为你还欠我一些答案.</Chinesesimp>
               <Japanese>まあそう急ぐな。質問タイムといこうか。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_mil_0">
@@ -9515,7 +9515,7 @@
               <English>This is what it's all been about, isn't it? Stratis, Mike-26, the airport, everything.</English>
               <Portuguese>Então era esse o seu verdadeiro objetivo, não era? Stratis, Mike-26, o aeroporto, tudo.</Portuguese>
               <Korean>전부 이 물건 때문이었던 거죠? 스트라티스, 마이크 둘여섯, 공항, 전부 다 말입니다.</Korean>
-              <Chinesesimp>这台就是你所有任务的目的, 是吗? Stratis, Mike-26, 机场, 所有的事.</Chinesesimp>
+              <Chinesesimp>这玩意就是你所有任务的目的, 是吗? Stratis, Mike-26雷达站, 机场, 所有的事.</Chinesesimp>
               <Japanese>すべてはこいつのためだった、違うか？ストラティスも、マイク-26も、空港も…すべて。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_mil_1">
@@ -9531,7 +9531,7 @@
               <English>Hm. Well, I'll take it from here.</English>
               <Portuguese>Hm. Bom, é comigo daqui em diante.</Portuguese>
               <Korean>흠, 그래. 여기서부터는 내가 알아서 하지.</Korean>
-              <Chinesesimp>哼. 那么, 它从这里就开始交给我吧.</Chinesesimp>
+              <Chinesesimp>哼. 那么, 我就在这接手这台车了.</Chinesesimp>
               <Japanese>ふん。さて、そいつを貰おうか。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_ker_4">
@@ -9563,7 +9563,7 @@
               <English>You'd do well to refrain from threatening me.</English>
               <Portuguese>Acho melhor não me ameaçar.</Portuguese>
               <Korean>나한테 협박을 하는 건 별로 좋은 일이 아닌데 말이다.</Korean>
-              <Chinesesimp>你最好不要这样威胁我.</Chinesesimp>
+              <Chinesesimp>我建议你最好别这么威胁我.</Chinesesimp>
               <Japanese>私を脅すなど、止めておいた方が身のためだ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_ker_5">
@@ -9579,7 +9579,7 @@
               <English>For what? To find this? What is it?</English>
               <Portuguese>Para quê? Para encontrar isto? O que é?</Portuguese>
               <Korean>대체 뭘 위해서? 이 물건을 찾으려고? 이게 대체 뭔데?</Korean>
-              <Chinesesimp>为了什么? 是要找到这个? 这是什么?</Chinesesimp>
+              <Chinesesimp>为了什么? 为了找到这个? 这是什么?</Chinesesimp>
               <Japanese>何のために？こいつを見つけるためか？一体こいつは何だ？</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_ker_6">
@@ -9659,7 +9659,7 @@
               <English>Kerry, I swear, once more and I'll drop you where you stand.</English>
               <Portuguese>Olha, Kerry, mais uma gracinha e acabo com você aqui mesmo.</Portuguese>
               <Korean>케리, 내 장담하는데 한 번만 더 대들면, 그 자리에서 쏴버리겠어.</Korean>
-              <Chinesesimp>Kerry, 我发誓, 你再这样骂一次我就把你给打趴在原地.</Chinesesimp>
+              <Chinesesimp>Kerry, 我发誓, 你再这样骂一次我马上就地给你干翻.</Chinesesimp>
               <Japanese>ケリー、次は、今立ってる場所に突っ伏すことになるぞ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_mil_6">
@@ -9675,7 +9675,7 @@
               <English>Think about it. When was the last time this region experienced tremors like these? There's been at least a dozen in the last few days alone.</English>
               <Portuguese>Pense bem. Quando foi a última vez em que a região teve tremores assim? Foram pelo menos uns dez só nos últimos dias.</Portuguese>
               <Korean>머리를 좀 굴려 봐. 이 동네에서 요즘처럼 지진이 일어났던 적이 있었나? 지난 몇 일 동안만 해도 열댓 번은 지진이 일어났었잖아.</Korean>
-              <Chinesesimp>你试着想想. 这个地区哪个时候有像这样的地震活动? 过去几天少说也摇个几十次了.</Chinesesimp>
+              <Chinesesimp>你试着想想. 这个地区什么时候有过像这样的地震活动? 光是过去几天少说也摇个几十次了.</Chinesesimp>
               <Japanese>考えてもみろ。こういった揺れがこの地域を襲うのは、これで何度目だ？ここ数日で12回は下らないだろう？</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_mil_7">
@@ -9691,7 +9691,7 @@
               <English>Question time's over.</English>
               <Portuguese>Acabou o tempo.</Portuguese>
               <Korean>질문 시간은 이제 끝났어.</Korean>
-              <Chinesesimp>问题时间结束.</Chinesesimp>
+              <Chinesesimp>提问时间结束.</Chinesesimp>
               <Japanese>質問タイムは終わりだ。</Japanese>
             </Key>
           </Container>
@@ -9763,7 +9763,7 @@
               <English>Just what in the hell is taking so long?</English>
               <Portuguese>Que demora toda é essa?</Portuguese>
               <Korean>대체 뭐가 그렇게 오래 걸리는 거냐?</Korean>
-              <Chinesesimp>天杀的你到底要花多少时间?</Chinesesimp>
+              <Chinesesimp>天杀的你到底干什么要这么久?</Chinesesimp>
               <Japanese>遅いぞ、何をしている？</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_50_nato_angered_bhq_1">
@@ -9797,7 +9797,7 @@
               <English>What have I gotten myself into?</English>
               <Portuguese>No que foi que me meti?</Portuguese>
               <Korean>대체 난 무슨 일에 휘말린 거지?</Korean>
-              <Chinesesimp>为什么我要让自己陷入这种麻烦事?</Chinesesimp>
+              <Chinesesimp>我这是惹上什么事了?</Chinesesimp>
               <Japanese>妙なことになってきたな…。</Japanese>
             </Key>
           </Container>
@@ -9849,7 +9849,7 @@
               <English>Shut the fuck up ... Listen, Kerry!</English>
               <Portuguese>Cale a boca... Escute, Kerry!</Portuguese>
               <Korean>아가리 닥치고... 잘 들어, 케리!</Korean>
-              <Chinesesimp>你先给我闭嘴... 听着, Kerry!</Chinesesimp>
+              <Chinesesimp>你先特么闭嘴... 听好, Kerry!</Chinesesimp>
               <Japanese>いいから…聴け、ケリー！</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_2">
@@ -9865,7 +9865,7 @@
               <English>In the base ... There's something... A... A truck...</English>
               <Portuguese>Na base... Tem algo... Um... Um caminhão...</Portuguese>
               <Korean>기지 안에... 뭔가... 트... 트럭이... 있을 거야...</Korean>
-              <Chinesesimp>在那个基地... 里面有某个东西... 一台... 一台卡车...</Chinesesimp>
+              <Chinesesimp>在那个基地... 里面有个东西... 一辆... 一辆卡车...</Chinesesimp>
               <Japanese>基地に…あるはずだ…ト、トラックが…</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_ker_0">
@@ -9897,7 +9897,7 @@
               <English>You'll know it... When you see it. You'll know...</English>
               <Portuguese>Você vai saber qual é... quando encontrar. Você vai saber...</Portuguese>
               <Korean>딱 보면... 어떤 건지 알 거다. 바로 알 거야...</Korean>
-              <Chinesesimp>你会知道的... 当你看到它时. 你就会知道了...</Chinesesimp>
+              <Chinesesimp>你会明白的... 当你看到它时. 你就都明白了...</Chinesesimp>
               <Japanese>見ればすぐにわかる…すぐにな…</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_4">
@@ -9961,7 +9961,7 @@
               <English>We tried... We...</English>
               <Portuguese>Nós tentamos... Nós...</Portuguese>
               <Korean>우린 노력했어... 정말...</Korean>
-              <Chinesesimp>我们尝试过了... 我们...</Chinesesimp>
+              <Chinesesimp>我们努力了... 我们...</Chinesesimp>
               <Japanese>我々の…計画は…</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_ker_2">
@@ -10077,7 +10077,7 @@
               <English>The AAF have issued their formal surrender. Straight from Akhanteros himself.</English>
               <Portuguese>A AAF se rendeu formalmente. Foi o próprio Akhanteros.</Portuguese>
               <Korean>AAF가 정식으로 항복을 해왔다. 아칸테로스 본인이 직접 보내왔더군.</Korean>
-              <Chinesesimp>AAF已经正式宣告投降. 直接由敌军指挥官Akhanteros本人所说的.</Chinesesimp>
+              <Chinesesimp>AAF已经正式宣告投降. 直接由敌军指挥官Akhanteros本人发来的.</Chinesesimp>
               <Japanese>AAFが公式に降伏を宣言した。アカンテロス本人からの申し入れだ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_25_defeated_bhq_2">
@@ -10093,7 +10093,7 @@
               <English>Hold your fire and prepare to receive POWs.</English>
               <Portuguese>Não atirem e se preparem para receber prisioneiros de guerra.</Portuguese>
               <Korean>발포 중지하고 전쟁포로를 받을 준비해라.</Korean>
-              <Chinesesimp>停止射击并准备接收战俘.</Chinesesimp>
+              <Chinesesimp>停止开火并准备接收战俘.</Chinesesimp>
               <Japanese>攻撃を止め、捕虜の受け入れに備えよ。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_25_defeated_bhq_3">
@@ -10209,7 +10209,7 @@
               <English>Nomad, maintain overwatch. Out.</English>
               <Portuguese>Nômade, fique no ponto de observação. Desligo.</Portuguese>
               <Korean>노매드, 계속해서 상황을 감시하라. 이상.</Korean>
-              <Chinesesimp>Nomad, 你们继续待在侦察点. 通话完毕.</Chinesesimp>
+              <Chinesesimp>Nomad, 你们继续侦查. 通话完毕.</Chinesesimp>
               <Japanese>ノマド、監視を続けろ。以上。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_15_neutralized_ker_0">
@@ -10345,7 +10345,7 @@
               <English>I want you and your men to coordinate the offensive. Concentrate on anything that poses a threat to Echo-2.</English>
               <Portuguese>Quero que você e seus homens coordenem a ofensiva. Concentre-se em qualquer coisa que for ameaça para Eco-2.</Portuguese>
               <Korean>귀관과 귀관의 부하들이 공세를 이끌도록. 에코 둘에게 위협이 될 만한 모든 것들을 처리해.</Korean>
-              <Chinesesimp>我要你跟你的人马来协调攻击行动. 处理掉任何会威胁到Echo-2的目标.</Chinesesimp>
+              <Chinesesimp>我要你跟你的手下来协调攻击行动. 处理掉任何会威胁到Echo-2的目标.</Chinesesimp>
               <Japanese>そこで、君とチームとで攻撃を仕掛けろ。エコー-2の脅威になりそうなものを集中的に排除してほしい。</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_10_orders_bhq_3">
@@ -10493,7 +10493,7 @@
               <English>... Kerry ... Do you copy? ...</English>
               <Portuguese>... Kerry... Você me copia?</Portuguese>
               <Korean>...케리... 내 말 들리나?...</Korean>
-              <Chinesesimp>... Kerry ... 你有收到吗? ...</Chinesesimp>
+              <Chinesesimp>... Kerry ... 你收到没? ...</Chinesesimp>
               <Japanese>…ケリー…聞こえるか？</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_01_start_jam_1">
@@ -10541,7 +10541,7 @@
               <English>Lieutenant James?</English>
               <Portuguese>Tenente James?</Portuguese>
               <Korean>제임스 중위님?</Korean>
-              <Chinesesimp>上尉James?</Chinesesimp>
+              <Chinesesimp>James上尉?</Chinesesimp>
               <Japanese>ジェームズ大尉？</Japanese>
             </Key>
             <Key ID="str_a3_c_out2_01_start_ker_3">
@@ -10729,7 +10729,7 @@
               <English>Goddammit, Sergeant. It'll take another hour. Meanwhile, do try not to fuck up anything else, understood?.</English>
               <Portuguese>Caralho, sargento. Vai demorar mais uma hora. Enquanto isso, tente não atrapalhar mais nada, entendido?</Portuguese>
               <Korean>제기랄, 병장. 한 한 시간쯤 걸릴 거다. 그 동안 또 다른 거에서 개판치지 말고 가만히 있어라. 알았나?</Korean>
-              <Chinesesimp>天杀的, 中士. 那会花上一个小时. 现在你啥都不要给我做, 了解了吗?.</Chinesesimp>
+              <Chinesesimp>天杀的, 中士. 这又得多耽搁一个小时. 现在你可千万别再把别的事也给搅和了, 了解了吗?.</Chinesesimp>
               <Japanese>やれやれ、軍曹。少し時間がかかるぞ。それまで、頼むからこれ以上トラブルを起こさんでくれよ？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_x05_cardamagedbase_ker_0">
@@ -10813,7 +10813,7 @@
               <English>Not again. Uh, affirmative, Crossroads. I'll be right there.</English>
               <Portuguese>De novo, não. Hm, afirmativo, Encruzilhada. Estarei aí daqui a pouco.</Portuguese>
               <Korean>또 시작이구만. 음, 알겠다, 크로스로드. 곧장 가겠다.</Korean>
-              <Chinesesimp>不要又来了. 恩, 收到, Crossroads. 我一会儿就到.</Chinesesimp>
+              <Chinesesimp>又来这破事. 恩, 收到, Crossroads. 我一会儿就到.</Chinesesimp>
               <Japanese>おいおい、またか。…あー、了解、クロスローズ。すぐに戻る。</Japanese>
             </Key>
           </Container>
@@ -10831,7 +10831,7 @@
               <English>Good afternoon, Mr. Panagopoulos. I'm Mark Cole from AAN. Do you have a second?</English>
               <Portuguese>Boa tarde, sr. Panagopoulos. Sou Mark Cole, da AAN. O senhor teria um segundo?</Portuguese>
               <Korean>안녕하십니까, 파나고폴로스씨. 저는 AAN의 마크 콜이라고 합니다. 잠시 시간 괜찮으신지요?</Korean>
-              <Chinesesimp>下午好, Panagopoulos先生. 我是来自AAN的Mark Cole. 你是否有点时间?</Chinesesimp>
+              <Chinesesimp>下午好, Panagopoulos先生. 我是来自AAN的Mark Cole. 是否能耽误您一点时间?</Chinesesimp>
               <Japanese>こんにちは、パナゴポウロウさん。AANのマーク・コールです。少しお時間をいただけますか？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_57_meetingnikos_fianotfriends_nik_0">
@@ -10865,7 +10865,7 @@
               <English>Good afternoon, Mr. Panagopoulos. I'm Mark Cole from AAN. Do you have a second?</English>
               <Portuguese>Boa tarde, sr. Panagopoulos. Sou Mark Cole, da AAN. O senhor teria um segundo?</Portuguese>
               <Korean>안녕하십니까, 파나고폴로스씨. 저는 AAN의 마크 콜이라고 합니다. 잠시 시간 괜찮으신지요?</Korean>
-              <Chinesesimp>下午好, Panagopoulos先生. 我是来自AAN的Mark Cole. 你是否有点时间?</Chinesesimp>
+              <Chinesesimp>下午好, Panagopoulos先生. 我是来自AAN的Mark Cole. 能否耽误您一点时间?</Chinesesimp>
               <Japanese>こんにちは、パナゴポウロウさん。AANのマーク・コールです。少しお時間をいただけますか？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_55_meetingnikos_fiafriends_nik_0">
@@ -10997,7 +10997,7 @@
               <English>Did British forces play any part in this incident?</English>
               <Portuguese>As forças britânicas tiveram alguma participação no incidente?</Portuguese>
               <Korean>이번 사태에서 영국군이 개입을 했었습니까?</Korean>
-              <Chinesesimp>英军有在此次事件中有扮演任何角色吗?</Chinesesimp>
+              <Chinesesimp>英军在此次事件中扮演什么角色了吗?</Chinesesimp>
               <Japanese>イギリス軍は今回の件に何か関与を？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_45_chattodestination2_ker_0">
@@ -11029,7 +11029,7 @@
               <English>Yeah, that's what the UK government keeps saying - hell, they almost seem to believe it.</English>
               <Portuguese>É o que o governo do Reino Unido anda dizendo. Eles até parecem acreditar nisso.</Portuguese>
               <Korean>그래요. 그게 영국 정부가 계속 주장하는 내용이죠. 젠장, 저도 거의 믿을 뻔했다니까요.</Korean>
-              <Chinesesimp>是阿, 这也是英国政府一直在说的事情 - 该死, 大众几乎就要相信他们了.</Chinesesimp>
+              <Chinesesimp>是阿, 英国政府也一直这么说 - 该死, 大众几乎就要相信他们了.</Chinesesimp>
               <Japanese>そう、それがイギリス政府の公式見解です。まるでバカのひとつ覚えだ。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_45_chattodestination2_ker_1">
@@ -11077,7 +11077,7 @@
               <English>What do you mean? They shipped out long before the flashpoint started.</English>
               <Portuguese>O que você quer dizer? Eles saíram muito antes do início do conflito.</Portuguese>
               <Korean>무슨 말씀이신가요? 그 인간들은 사태가 시작되기 한참 전에 철군했잖아요.</Korean>
-              <Chinesesimp>你的意思是? 他们在战争爆发前老早就撤走了.</Chinesesimp>
+              <Chinesesimp>你的意思是? 他们在冲突爆发前老早就撤走了.</Chinesesimp>
               <Japanese>どういう意味です？彼らは紛争が始まるずっと前に島を出ている。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_45_chattodestination2_jou_4">
@@ -11093,7 +11093,7 @@
               <English>Then why don't you ask him?</English>
               <Portuguese>Então por que você não pergunta a ele?</Portuguese>
               <Korean>그럼 가서 직접 물어보시지 그러세요?</Korean>
-              <Chinesesimp>那你为什么不问他呢?</Chinesesimp>
+              <Chinesesimp>那你为什么不问问他呢?</Chinesesimp>
               <Japanese>では、彼に聞いてみるといい。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_45_chattodestination2_ker_3">
@@ -11109,7 +11109,7 @@
               <English>I'm not sure I follow here.</English>
               <Portuguese>Acho que não estou entendendo.</Portuguese>
               <Korean>무슨 말씀인지 제가 잘 못 알아 들은 것 같네요.</Korean>
-              <Chinesesimp>我不太明白你的意思.</Chinesesimp>
+              <Chinesesimp>我有点没跟上你说什么.</Chinesesimp>
               <Japanese>おっしゃる意味がわかりませんな。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_45_chattodestination2_ker_4">
@@ -11257,7 +11257,7 @@
               <English>I was told that Mr. Panagopoulos was involved with guerrillas during the flashpoint. Is that correct?</English>
               <Portuguese>Fiquei sabendo que o sr. Panagopoulos estava envolvido com as guerrilhas durante o conflito. Isso está correto?</Portuguese>
               <Korean>파나고폴로스씨께 듣기로는 병장님이 사태 당시에 게릴라와 연관되어 있으셨다던데요. 그게 사실입니까?</Korean>
-              <Chinesesimp>我听说到Panagopoulos先生曾在战争期间担任过反抗军. 是这样吗?</Chinesesimp>
+              <Chinesesimp>我听说到Panagopoulos先生曾在战争期间当过游击队. 是真的吗?</Chinesesimp>
               <Japanese>パナゴポウロウ氏は、紛争中ゲリラ活動をしていたとか。本当ですか？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_40_chattodestination_jou_2">
@@ -11289,7 +11289,7 @@
               <English>Sure. I thought that was a public knowledge.</English>
               <Portuguese>Claro. Achei que todo mundo soubesse disso.</Portuguese>
               <Korean>그럼요. 그건 다들 알고 있는 줄 알았는데요?</Korean>
-              <Chinesesimp>是阿. 我想那些是大家都已经知道的事情.</Chinesesimp>
+              <Chinesesimp>是阿. 我还以为那些事情大家都知道了.</Chinesesimp>
               <Japanese>ええ。周知の事実だと思いますが？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_40_chattodestination_ker_1">
@@ -11305,7 +11305,7 @@
               <English>Why don't you ask him when we get there?</English>
               <Portuguese>Por que você não pergunta a ele quando chegarmos lá?</Portuguese>
               <Korean>도착하면 직접 물어보시지 그러세요?</Korean>
-              <Chinesesimp>何不等下你就自己问他呢?</Chinesesimp>
+              <Chinesesimp>要不等我们到了你自己问他吧?</Chinesesimp>
               <Japanese>それなら、これから直接聞いてみては？</Japanese>
             </Key>
           </Container>
@@ -11339,7 +11339,7 @@
               <English>I dunno. The locals, though - uh - not exactly known for their courteous driving.</English>
               <Portuguese>Não sei. Mas os locais não são lá muito educados atrás do volante.</Portuguese>
               <Korean>저도 모르죠. 지역민들은 그러니까... 음... 딱히 운전을 얌전하게 하는 편이 아니거든요.</Korean>
-              <Chinesesimp>我不知道. 这些当地人, 他们完全就不按规则来驾驶汽车.</Chinesesimp>
+              <Chinesesimp>我不知道. 这些当地人, 呃, 开车并不是很客气.</Chinesesimp>
               <Japanese>さあ。ただ、地元住人の運転は、その…お世辞にも丁寧とは言えませんな。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_37_caraccident_ker_1">
@@ -11355,7 +11355,7 @@
               <English>And these damn goats! Christ. I'm telling you, you gotta be on the lookout for them around every corner.</English>
               <Portuguese>E ainda mais essas cabras do caralho! Meu Deus. Estou dizendo... O ideal é ficar de olho arregalado em cada curva.</Portuguese>
               <Korean>게다가 그 망할 염소들까지! 에휴... 매번 코너를 돌 때마다 염소는 없나하고 살펴봐야 할 정도에요.</Korean>
-              <Chinesesimp>还有那些天杀的山羊! 老天啊. 我必须跟你老实说, 你在这开车的时候必须眼观四方, 防止他们突然从哪个角落突然碰出来.</Chinesesimp>
+              <Chinesesimp>还有那些天杀的山羊! 老天啊. 我必须跟你老实说, 你在这开车的时候必须眼观四方, 防止它们突然冒出来.</Chinesesimp>
               <Japanese>それに、このヤギ！まったく、ちょっと角を曲がるにも気が抜けませんよ。</Japanese>
             </Key>
           </Container>
@@ -11373,7 +11373,7 @@
               <English>Alright. That should do it.</English>
               <Portuguese>Certo. Pronto, pronto.</Portuguese>
               <Korean>됐다. 이 정도면 되겠어요.</Korean>
-              <Chinesesimp>好的. 这样应该就够用了.</Chinesesimp>
+              <Chinesesimp>好的. 这样应该就行了.</Chinesesimp>
               <Japanese>よし。これで大丈夫だ。</Japanese>
             </Key>
           </Container>
@@ -11407,7 +11407,7 @@
               <English>I mean the start of the flashpoint.</English>
               <Portuguese>Quero desde dizer o início do conflito.</Portuguese>
               <Korean>사태의 처음부터 여기 계셨냐는 말이죠.</Korean>
-              <Chinesesimp>我的意思是战争开始的时候.</Chinesesimp>
+              <Chinesesimp>我的意思是冲突开始的时候.</Chinesesimp>
               <Japanese>つまり紛争の当初から？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_jou_2">
@@ -11471,7 +11471,7 @@
               <English>And who, in your view, gave them that push?</English>
               <Portuguese>E quem, na sua opinião, os instigou a fazer isso?</Portuguese>
               <Korean>그럼 병장님이 보기에는 누가 그들을 몰아붙인 건가요?</Korean>
-              <Chinesesimp>还有谁, 在你的认知中, 是谁支持他们这样做?</Chinesesimp>
+              <Chinesesimp>那么在你看来, 是谁给他们这么做的动机呢?</Chinesesimp>
               <Japanese>それで、誰がその後押しをしたとお考えで？</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_1">
@@ -11519,7 +11519,7 @@
               <English>I'm not really at liberty to talk about that.</English>
               <Portuguese>Não tenho muita liberdade para falar sobre isso.</Portuguese>
               <Korean>그것과 관련해서는 말씀 드릴 수가 없습니다.</Korean>
-              <Chinesesimp>我不太有权限来谈论这件事.</Chinesesimp>
+              <Chinesesimp>我不太方便对这件事发表看法.</Chinesesimp>
               <Japanese>それをお話しする権限は、私にはありません。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_3">
@@ -11567,7 +11567,7 @@
               <English>Isn't that supposed to be your job to find out?</English>
               <Portuguese>Não é seu trabalho descobrir isso?</Portuguese>
               <Korean>그걸 알아내는게 기자님 직업 아닙니까?</Korean>
-              <Chinesesimp>找出原因不就是你的工作该做的事吗?</Chinesesimp>
+              <Chinesesimp>找出原因不就是你的工作吗?</Chinesesimp>
               <Japanese>そいつを突き止めるのが、あなたの仕事では？</Japanese>
             </Key>
           </Container>
@@ -11585,7 +11585,7 @@
               <English>I'd have thought everything was at least a hybrid these days.</English>
               <Portuguese>Achava que os veículos de hoje fossem pelo menos híbridos.</Portuguese>
               <Korean>요새 차들은 전부 하이브리드 자동차 정도는 되는 줄 알았는데요?</Korean>
-              <Chinesesimp>我还以为现在所有的车都已经改成油电混合了.</Chinesesimp>
+              <Chinesesimp>我还以为现在所有的车都至少已经改成油电混合了.</Chinesesimp>
               <Japanese>最近はハイブリッドがあたりまえかと思ってましたよ。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_25_lowfuel_ker_0">
@@ -11617,7 +11617,7 @@
               <English>Alright, slight detour. We need to fill up.</English>
               <Portuguese>Certo, um pequeno desvio. Precisamos abastecer.</Portuguese>
               <Korean>좋습니다. 약간 돌아가기로 하죠. 기름부터 채워야겠어요.</Korean>
-              <Chinesesimp>好吧, 让我们绕一下路. 去把油加满吧.</Chinesesimp>
+              <Chinesesimp>好吧, 稍微绕一下路. 我们得去加个油.</Chinesesimp>
               <Japanese>少し回り道をしますよ。給油しないと。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_25_lowfuel_ker_2">
@@ -11683,7 +11683,7 @@
               <English>And, with several hundred dead soldiers, this month-long flashpoint looks set to become one of the most costly NATO operations in recent history.</English>
               <Portuguese>E, com várias centenas de soldados mortos, o conflito, que durou um mês, parece que se tornará a operação mais custosa da OTAN na história recente.</Portuguese>
               <Korean>수백 명의 병사가 사망한 가운데 한 달여에 걸친 이 사태는 근래의 NATO 작전 중 가장 많은 비용이 들어가는 작전이 될 것으로 보입니다.</Korean>
-              <Chinesesimp>而且, 在此次一个月的战争中, 阵亡的士兵有数百人, 这可能会成为NATO历史上最惨烈的几场战役之一.</Chinesesimp>
+              <Chinesesimp>而且, 在此次一个月的战争中, 阵亡的士兵有数百人, 这可能会成为NATO最近损失最惨重的一次行动.</Chinesesimp>
               <Japanese>また、戦死者も数百人にのぼっており、1ヶ月にわたり続いたこの紛争がNATOの近年の作戦のなかでも最も犠牲の大きなものとなるのは確実でしょう。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_20_radiobroadcast1_rad_3">
@@ -11699,7 +11699,7 @@
               <English>In past few months - and alongside the ongoing economic crisis - both the strength and integrity of the North-Atlantic Alliance has come into question in what many consider to be a critical turning point for NATO.</English>
               <Portuguese>Nos últimos meses, durante a crise econômica, tanto a força como a integridade da Aliança do Atlântico Norte foram questionadas. Muitos consideram isso um momento crítico para a OTAN.</Portuguese>
               <Korean>지난 몇 달 간의 사태와 더불어, 경제위기의 지속도 북대서양연합의 힘과 무결성을 의심하게 만드는 계기가 되고 있고, 많은 사람들이 현 시점을 NATO에게 있어 중요한 전환점이 될 것이라 생각하고 있습니다.</Korean>
-              <Chinesesimp>在过去几个月里 - 随着经济危机的发生 - NATO在实力与完整性上都出现了漏洞, 遭人讨论与质疑.</Chinesesimp>
+              <Chinesesimp>在过去几个月里 - 随着经济危机的发生 - NATO在实力与整合力上都出现了漏洞, 遭人讨论与质疑.</Chinesesimp>
               <Japanese>この数ヶ月、深まる経済危機の影響もあって、北大西洋条約機構の力と権威を疑問視する声は高まるばかりです。NATOは今、大きな転機を迎えています。</Japanese>
             </Key>
           </Container>
@@ -11751,7 +11751,7 @@
               <English>Uh, just a sec - they've given me a bunch of keys.</English>
               <Portuguese>Hm, só um segundo. Me deram um monte de chaves.</Portuguese>
               <Korean>음, 잠시만요... 열쇠를 한 뭉텅이나 받아오는 바람에...</Korean>
-              <Chinesesimp>呃, 请等我一下 - 他们给了我一大串的钥匙.</Chinesesimp>
+              <Chinesesimp>呃, 请等我一下 - 他们给了我一大串钥匙.</Chinesesimp>
               <Japanese>あー…ちょっとお待ちを。カギが多すぎて…。</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_10_getcar_ker_1">
@@ -11767,7 +11767,7 @@
               <English>Supposed to be car around here somewhere - a red off-road.</English>
               <Portuguese>Deve ter um carro por aqui em algum lugar... Um off-road vermelho.</Portuguese>
               <Korean>여기 어딘가에 차가 있을 텐데... 빨간 오프로드 차량이...</Korean>
-              <Chinesesimp>我记得车子应该是停在这附近 - 是一台红色的越野皮卡货车.</Chinesesimp>
+              <Chinesesimp>我记得车子应该是停在这附近 - 是一台红色的越野皮卡.</Chinesesimp>
               <Japanese>この辺に停まってるはずだが…赤のオフロードです。</Japanese>
             </Key>
           </Container>
@@ -11883,7 +11883,7 @@
               <English>No worries. Just keep outta trouble!</English>
               <Portuguese>Não tem problema. Só não arrume confusões!</Portuguese>
               <Korean>이쯤이야. 말썽에 휘말리지나 말아라!</Korean>
-              <Chinesesimp>不要担心. 只要你保持远离麻烦就好!</Chinesesimp>
+              <Chinesesimp>不要担心. 只要你别惹麻烦就行!</Chinesesimp>
               <Japanese>いいってことよ。気をつけてな！</Japanese>
             </Key>
             <Key ID="str_a3_c_ea_01_playerarrived_ker_0">
@@ -11916,7 +11916,7 @@
             <English>Six weeks after the flashpoint's resolution, Kerry is handed a special task.</English>
             <Portuguese>Seis semanas depois da resolução do conflito, Kerry recebe uma tarefa especial.</Portuguese>
             <Korean>상황 해결 후 6주가 지나고, 케리에게는 특별한 과업이 할당되었습니다.</Korean>
-            <Chinesesimp>在战争结束后六星期, Kerry被交付了一个特殊的任务.</Chinesesimp>
+            <Chinesesimp>在战争结束后六星期, Kerry领到了一个特殊的任务.</Chinesesimp>
             <Japanese>紛争終結から6週間。ケリーは特別任務を命じられる。</Japanese>
           </Key>
           <Key ID="STR_A3_C_EA_briefingMission">
@@ -11932,7 +11932,7 @@
             <English>Await the arrival of an AAN reporter and deliver him to his interview with Nikos Panagopoulos. </English>
             <Portuguese>Aguarde a chegada de um repórter da AAN e o leve para realizar uma entrevista com Nikos Panagopoulos. </Portuguese>
             <Korean>AAN 기자가 도착할 때까지 대기하다가, 그를 니코스 파나고폴로스와 인터뷰 장소로 데려가라.</Korean>
-            <Chinesesimp>与刚抵达的AAN记者碰面, 并护送他前去采访Nikos Panagopoulos. </Chinesesimp>
+            <Chinesesimp>等待AAN记者到达, 并把他带去采访Nikos Panagopoulos. </Chinesesimp>
             <Japanese>AANレポーターの到着を待ち、インタビュー相手のニコス・パナゴポウロウのもとに送り届けろ。 </Japanese>
           </Key>
           <Key ID="STR_A3_C_EA_briefingSituation">
@@ -11948,7 +11948,7 @@
             <English>Six weeks have passed since the AAF's capitulation.&lt;br /&gt;&lt;br /&gt;The FIA, under the leadership of Nikos Panagopoulos, have transitioned from a military opposition to a political body and, alongside our forces, are working hard to restore their homeland. Although it will take time for this country to recover from war, the new government has the confidence of the people of Altis.&lt;br /&gt;&lt;br /&gt;However, NATO's invasion - albeit swift and, ultimately, successful - has stirred a new round of debates over the funding of military forces in this region. The conclusion was clear: there is no way NATO can maintain their position here while tensions in the pacific region rise. The decommissioning will continue and NATO will abandon this region.</English>
             <Portuguese>Passaram-se seis semanas desde a capitulação da AAF.&lt;br /&gt;&lt;br /&gt;A FIA, sob a liderança de Nikos Panagopoulos, fez a transição de uma oposição militar para um corpo político e, em conjunto com nossas forças, está trabalhando duro para restaurar sua terra natal. O país ainda precisar de muito tempo para se recuperar da guerra, mas o novo governo tem a confiança do povo de Altis.&lt;br /&gt;&lt;br /&gt;Contudo, a invasão da OTAN, apesar de rápida e bem-sucedida em última análise, lançou um novo debate sobre o financiamento das forças armadas na região. A conclusão foi clara: não há como a OTAN manter sua posição enquanto as tensões na região do Pacífico crescem. A desativação continuará, e a OTAN abandonará a região.</Portuguese>
             <Korean>AAF의 조건부 항복 이후로 6주가 지났다.&lt;br /&gt;&lt;br /&gt;니코스 파나고폴로스의 지휘 아래, FIA는 군사세력에서 정치적 세력으로 거듭났고, 우리 군과 함께 자신들의 조국을 회복시키기 위해 노력 중이다. 이 나라가 전쟁이 남긴 상처에서 벗어나려면 시간이 좀 걸리기는 하겠지만, 새로운 정부는 알티스 국민들의 힘을 믿고 있다.&lt;br /&gt;&lt;br /&gt;NATO의 침공이 신속하고, 성공적으로 끝나기는 했지만 이 지역에 주둔한 군대에게 자금을 지원하는 일은 새로운 논쟁을 불러일으켰다. 그리고 그 결론은 명확했다. 태평양 지역의 긴장감이 높아지고 있는 이상, NATO가 이곳에서 계속 주둔할 수는 없다는 것이다. 군사시설의 해체는 계속될 것이고, NATO는 이 지역을 버릴 것이다.</Korean>
-            <Chinesesimp>在AAF投降后已经过了六个星期.&lt;br /&gt;&lt;br /&gt;FIA在Nikos Panagopoulos的带领下, 从反抗军转变为政治团体, 与NATO一同努力来重建他们的家园. 虽然他们还要好一段时间才能走出战争的阴霾, 不过新政府是很受Altis人民爱戴的.&lt;br /&gt;&lt;br /&gt;而藉由NATO的入侵, 并迅速的获得最后的胜利 - 这让原本要撤军的这区, 又开始新一次的辩论, 讨论是否要投注更多的资金在这区域的防守. 但讨论的结果很明确: NATO已经没法在这保持更多的兵力了, 因为他们还要应付太平洋日渐增温的紧张局势. 撤军的计划还是继续执行, NATO将会放弃这块区域.</Chinesesimp>
+            <Chinesesimp>在AAF投降后已经过了六个星期.&lt;br /&gt;&lt;br /&gt;FIA在Nikos Panagopoulos的带领下, 从游击队转型为政治团体, 与NATO一同努力来重建他们的家园. 虽然他们还要好一段时间才能走出战争的阴霾, 不过新政府是很受Altis人民爱戴的.&lt;br /&gt;&lt;br /&gt;虽然NATO此次行动非常顺利, 并且获得了最后的胜利 - 但还是激起了该区域军费预算问题的讨论. 结论很明确: NATO已经没法在这保持更多的兵力了, 因为他们还要应付太平洋日渐增温的紧张局势. 撤军的计划还是继续执行, NATO将会放弃这块区域.</Chinesesimp>
             <Japanese>AAFの降伏から6週間が経った。&lt;br /&gt;&lt;br /&gt;FIAはニコス・パナゴポウロウの統率のもと、軍事勢力から政党へと姿を変えた。我が軍とともに、祖国の復興のために尽力している。この国が戦禍から立ち直るには、まだ時間がかかるだろう。だが新政府はアルティス国民の信頼を集めている。&lt;br /&gt;&lt;br /&gt;一方、今回のNATOの侵攻は、短期かつ結果としては成功だったにもかかわらず、物議をかもしている。この地域への派兵を疑問視する声は増すばかりだ。太平洋地域の緊張が高まるなか、NATOがこの島で影響力を維持することはもはや難しい。NATOは撤兵を進め、いずれこの地域を手放すことになるだろう。</Japanese>
           </Key>
           <Key ID="STR_A3_C_EA_debriefingCarBroken">
@@ -11980,7 +11980,7 @@
             <English>Collateral damage is not allowed</English>
             <Portuguese>Dano colateral não é tolerado</Portuguese>
             <Korean>부수적 피해는 용납되지 않는다!</Korean>
-            <Chinesesimp>间接伤害是不被允许的</Chinesesimp>
+            <Chinesesimp>连带伤害是不被允许的</Chinesesimp>
             <Japanese>民間の被害は許されない</Japanese>
           </Key>
           <Key ID="STR_A3_C_EA_debriefingJournalistWounded">
@@ -12172,7 +12172,7 @@
             <English>Get a full tank of gas at one of the nearby oil stations.</English>
             <Portuguese>Encha o tanque de combustível em um dos postos próximos.</Portuguese>
             <Korean>인근의 주유소에서 꽉 찬 기름 한 통을 찾아라.</Korean>
-            <Chinesesimp>请到附近的加油站把油给加满.</Chinesesimp>
+            <Chinesesimp>到附近的加油站加满一箱油.</Chinesesimp>
             <Japanese>近くの給油所でガソリンを満タンにせよ。</Japanese>
           </Key>
           <Key ID="STR_A3_C_EA_taskBIS_refuel_mrkr">
@@ -12289,7 +12289,7 @@
               <English>Thank God. We would have died in this shithole.</English>
               <Portuguese>Graças a Deus. A gente ia morrer nesse lugar de bosta.</Portuguese>
               <Korean>신이시여, 이 구정물에서 죽는 줄 알았어.</Korean>
-              <Chinesesimp>感谢老天. 我们以为我们会死在这里了.</Chinesesimp>
+              <Chinesesimp>感谢老天. 我们以为我们会死在这破地方了.</Chinesesimp>
               <Japanese>助かったぜ。おかげで命拾いした。</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_45_fiajoin_gua_1">
@@ -12305,7 +12305,7 @@
               <English>Our whole island is on fire, we must go!</English>
               <Portuguese>A ilha inteira está pegando fogo! Precisamos ir!</Portuguese>
               <Korean>섬 전체가 불바다야! 여기를 떠야 해!</Korean>
-              <Chinesesimp>我们的整座岛屿已经毁了, 我们必须离开!</Chinesesimp>
+              <Chinesesimp>我们的整座岛屿已经被战火包围, 我们必须离开!</Chinesesimp>
               <Japanese>島全体が戦火に包まれている…急げ！</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_45_fiajoin_ker_0">
@@ -12339,7 +12339,7 @@
               <English>Nikos, Kostas?! Andreas? Does anybody hear me?</English>
               <Portuguese>Nikos, Kostas?! Andreas? Alguém na escuta?</Portuguese>
               <Korean>니코스, 코스타스?! 안드레아스? 아무도 안 들리나?</Korean>
-              <Chinesesimp>Nikos, Kostas?! Andreas? 有任何人能听见吗?</Chinesesimp>
+              <Chinesesimp>Nikos, Kostas?! Andreas? 有谁能听到我说话吗?</Chinesesimp>
               <Japanese>ニコス、コスタス！？アンドレアス？誰か、応答しろ！</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_40_fia_gua_1">
@@ -12487,7 +12487,7 @@
               <English>I hear you Bravo. It's Sergeant Kerry here. What's your status? I'm cut off in the middle of nowhere. Can you assist?</English>
               <Portuguese>Estou ouvindo, Bravo. Aqui é o Sargento Kerry. Qual é a sua a situação? Estou isolado no meio do nada. Você pode ajudar?</Portuguese>
               <Korean>들린다, 브라보. 여기는 케리 병장. 상황이 어떤가? 난 지금 어딘지도 모를 곳에 혼자 떨어져 있다. 지원해 줄 수 있나?</Korean>
-              <Chinesesimp>我听到你了Bravo. 这里是中士Kerry. 你们的状况如何? 我这里一点头绪都没有. 你能提供帮助吗?</Chinesesimp>
+              <Chinesesimp>我听到你了Bravo. 这里是Kerry中士. 你们的状况如何? 我这前不着村后不着店的. 你能提供帮助吗?</Chinesesimp>
               <Japanese>ブラボー、こちらケリー軍曹だ。そちらの状況は？こちらは何もない場所で孤立している。援護を頼みたい。</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_ker_1">
@@ -12503,7 +12503,7 @@
               <English>Okay. Right ... Okay, just stay put. I'll find some truck and pick you up.</English>
               <Portuguese>Certo. Vejamos... Certo, fiquem quietos aí. Vou encontrar um caminhão para buscá-los.</Portuguese>
               <Korean>좋아. 알았다... 그래, 거기 있어라. 트럭을 좀 찾아서 데리러 가겠다.</Korean>
-              <Chinesesimp>好. 好吧... 恩, 你们坚持住. 我会试着找辆卡车去接你们.</Chinesesimp>
+              <Chinesesimp>好. 好吧... 恩, 你们坚持住. 我看看能不能找辆卡车去接你们.</Chinesesimp>
               <Japanese>オーケー。わかった…。よし、その場で待て。どこかでトラックを入手して、迎えにいく。</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_0">
@@ -12635,7 +12635,7 @@
               <English>Shit. I've gotta get out of here.</English>
               <Portuguese>Merda. Preciso cair fora daqui.</Portuguese>
               <Korean>제기랄. 여기서 빠져나가야 해.</Korean>
-              <Chinesesimp>该死. 我最好要离开这里了.</Chinesesimp>
+              <Chinesesimp>该死. 我得赶紧离开这里了.</Chinesesimp>
               <Japanese>クソッ。早く脱出しなければ。</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_20_gameover_ker_1">
@@ -12719,7 +12719,7 @@
               <English>Please respond! Anybody!</English>
               <Portuguese>Responda! Alguém!</Portuguese>
               <Korean>제발 응답 좀 해! 아무라도!</Korean>
-              <Chinesesimp>请回答! 任何人都好!</Chinesesimp>
+              <Chinesesimp>请回话! 谁都好!</Chinesesimp>
               <Japanese>頼む、応答してくれ！誰か！</Japanese>
             </Key>
           </Container>
@@ -12787,7 +12787,7 @@
               <English>Are you fucking kidding me? Fuck you, Miller!</English>
               <Portuguese>Ah, não ferra? Vá se foder, Miller!</Portuguese>
               <Korean>지금 젠장 나랑 장난해? 엿이나 처먹어, 밀러!</Korean>
-              <Chinesesimp>你是在给我开什么玩笑? 干你妈的, Miller!</Chinesesimp>
+              <Chinesesimp>你他妈在逗我? 干你妈的, Miller!</Chinesesimp>
               <Japanese>ふざけるな！ミラー…このクソッタレが！</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_mil_0">
@@ -12819,7 +12819,7 @@
               <English>What we're dealing with here - I simply cannot take the risk - we can't return to the warzone.</English>
               <Portuguese>Com tudo que estamos lidando... Não posso correr o risco. Não podemos voltar à zona de guerra.</Portuguese>
               <Korean>여기서 벌어지고 있는 일은... 단순히 위험을 감수할 여지가 없단 말이야. 전쟁지역으로 되돌아 갈 수는 없어.</Korean>
-              <Chinesesimp>我还在这里处理一些事情 - 而且我不能承担风险 - 我们已经无法返回战区了.</Chinesesimp>
+              <Chinesesimp>我还在这里处理一些事情 - 我不能冒这个险 - 我们不能再返回战区了.</Chinesesimp>
               <Japanese>我々の計画は…そう、リスクを冒すわけにはいかない。戦場には戻れなくなった。</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_mil_2">
@@ -12835,7 +12835,7 @@
               <English>I'm sorry. You're on your own.</English>
               <Portuguese>Sinto muito. Você está por conta própria.</Portuguese>
               <Korean>미안하지만, 알아서 탈출해라.</Korean>
-              <Chinesesimp>我很抱歉. 你必须靠你自己了.</Chinesesimp>
+              <Chinesesimp>我很抱歉. 靠你自己吧.</Chinesesimp>
               <Japanese>すまない。自力で脱出してくれ。</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_ker_2">
@@ -12851,7 +12851,7 @@
               <English>I risked my ass - saved your life - what, all for a fucking suicide mission?</English>
               <Portuguese>Botei o meu na reta e salvei a sua vida para quê? Por causa da porra de uma missão suicida?</Portuguese>
               <Korean>당신 목숨도 살려줬고, 내 운명까지 걸었는데... 그게 다 이딴 자살임무 때문이었다고?</Korean>
-              <Chinesesimp>我曾冒过风险 - 去救了你的小命 - 这全部都为了什么, 只为执行一个自杀任务?</Chinesesimp>
+              <Chinesesimp>我冒着生命危险 - 救过你的小命 - 怎么, 所有这些都只是为了个自杀任务?</Chinesesimp>
               <Japanese>俺はリスクを冒した、あんたの命も救った…その結果が、これか？</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_ker_3">
@@ -12867,7 +12867,7 @@
               <English>Miller? Respond! Just what the hell was this all about?!</English>
               <Portuguese>Miller? Responda! Mas que merda toda é essa?!</Portuguese>
               <Korean>밀러? 응답해! 대체 이게 다 뭣 때문이었는데?!</Korean>
-              <Chinesesimp>Miller? 请回答! 你他妈的到底是什么意思?!</Chinesesimp>
+              <Chinesesimp>Miller? 请回答! 这他妈都什么情况?!</Chinesesimp>
               <Japanese>ミラー？応答しろ！一体どういうことだ、説明しろ！</Japanese>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_mil_3">
@@ -12950,7 +12950,7 @@
             <English>Despite the circumstances, now's the only chance to get some answers. There must be at least something inside the %2scientific module%1 of the CSAT research base.</English>
             <Portuguese>Apesar das circunstâncias, agora é a única oportunidade para conseguir algumas respostas. Deve haver ao menos alguma pista dentro do %2módulo científico%1 da base de pesquisa da CSAT.</Portuguese>
             <Korean>현재 상황에도 불구하고, 지금이 바로 의문의 답을 얻을 수 있는 유일한 기회이다. 분명히 CSAT 연구기지의 %2과학모듈%1에 뭔가가 남아있을 것이다.</Korean>
-            <Chinesesimp>尽管现在情势如此危急, 但也只有现在才有机会调查清楚到底他们在研究什么. 在那个CSAT的%2研究基地%1中一定还有剩下些什么.</Chinesesimp>
+            <Chinesesimp>尽管情势如此危急, 但想查个水落石出也只能趁现在了. 在那个CSAT的%2科研基地%1中一定还至少剩了些什么.</Chinesesimp>
             <Japanese>状況が状況だが、謎を解明するチャンスは今しかない。CSAT研究基地の%2科学モジュール%1内部に、必ず何かがあるはずだ。</Japanese>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskDevice_title">
@@ -12998,7 +12998,7 @@
             <English>Use any means to escape from the island before it's too late. Find some boat or catch an evac heli and get as far from the island as you can.</English>
             <Portuguese>Faça o que for necessário para fugir da ilha antes que seja tarde demais. Encontre um barco ou helicóptero de evacuação e se afaste o máximo que puder da ilha.</Portuguese>
             <Korean>너무 늦기 전에 무슨 수를 써서라도 섬에서 탈출하라. 단정을 찾거나, 탈출헬기를 타고 최대한 섬에서 멀리 떨어져라.</Korean>
-            <Chinesesimp>在一切都太迟之前, 赶紧逃离这座岛. 你可以寻找船或直升机来帮助你逃离.</Chinesesimp>
+            <Chinesesimp>在一切都太迟之前, 用一切手段赶紧逃离这座岛. 找艘船或者救援直升机跑得越远越好.</Chinesesimp>
             <Japanese>手遅れになる前に、何としても島から脱出せよ。ボートを探すか救援ヘリをつかまえ、島からできるだけ遠くへ離れろ。</Japanese>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskEscape_title">
@@ -13126,7 +13126,7 @@
             <English>%2Wait for%1 captain Miller to get you off the island.</English>
             <Portuguese>%2Espere%1 o Capitão Miller o tirar da ilha.</Portuguese>
             <Korean>밀러 대위가 섬에서 빠져나가게 해줄 때까지 %2기다려라.%1</Korean>
-            <Chinesesimp>%2等待%1上尉Miller带你离开这座岛.</Chinesesimp>
+            <Chinesesimp>%2等待%1Miller上校带你离开这座岛.</Chinesesimp>
             <Japanese>%2待機し%1、ミラー大佐に島から連れ出してもらうのを待て。</Japanese>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskWait_title">
@@ -13174,7 +13174,7 @@
             <English>Wait for Cpt. Miller to extract you from Altis.</English>
             <Portuguese>Espere o Capitão Miller para ser extraído de Altis.</Portuguese>
             <Korean>밀러 대위가 알티스에서 탈출시켜 줄 때까지 기다려라.</Korean>
-            <Chinesesimp>等待上尉Miller带你逃离Altis.</Chinesesimp>
+            <Chinesesimp>等待Miller上校带你逃离Altis.</Chinesesimp>
             <Japanese>ミラー大佐を待ち、アルティスから脱出させてもらう。</Japanese>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_Briefing_Situation_text">
@@ -13190,7 +13190,7 @@
             <English>All hell's broken loose.&lt;br /&gt;CSAT has made a massive counter-attack and the whole island is in flames. It feels like it's the beginning of a global war.&lt;br /&gt;&lt;br /&gt;We thought that the whole conflict would be over in the next few hours - that the AAF would simply surrender - but, instead, it's escalated beyond control. I don't know exactly what that 'thing' I handed to Miller was, but CSAT certainly seems to value it highly. &lt;br /&gt;&lt;br /&gt;I've got to get out of here.</English>
             <Portuguese>Os demônios estão à solta.&lt;br /&gt;A CSAT lançou um contra-ataque de grandes proporções, e a ilha inteira está em chamas. Parece o início de uma guerra global.&lt;br /&gt;&lt;br /&gt;Achamos que o conflito estaria completamente acabado nas próximas horas e que a AAF se renderia, mas tudo saiu de controle. Não sei muito bem o que era aquela “coisa” que entreguei para Miller, mas, pelo visto, é muito importante para a CSAT. &lt;br /&gt;&lt;br /&gt;Preciso sair daqui.</Portuguese>
             <Korean>전부 아수라장이 되어버렸다.&lt;br /&gt;CSAT이 엄청난 규모의 반격을 해왔고, 섬 전체가 불바다가 되었다. 마치 세계대전이 시작되기라도 한 것 같다.&lt;br /&gt;&lt;br /&gt;우리는 이 분쟁 자체가 단순히 몇 시간 내로 종식될 거라, AAF가 그냥 항복할 거라고 생각했지만, 그 대신에 상황은 통제가 불가능할 정도로 악화되었다. 난 내가 밀러에게 넘긴 그 '물건'이 뭔지 모르지만, CSAT은 확실히 그 물건의 가치를 높게 평가하는 듯 하다.&lt;br /&gt;&lt;br /&gt;여기서 빠져나가야 해.</Korean>
-            <Chinesesimp>一切都完了.&lt;br /&gt;CSAT做出了大规模的反击, 整个岛都已经陷入了火海. 这看来就像是世界大战的开始.&lt;br /&gt;&lt;br /&gt;我们认为在几小时的冲突之后, AAF就会投降了. 我并不知道我到底把什么'东西'交给了Miller, 不过看来CSAT真的把它看得很重要. &lt;br /&gt;&lt;br /&gt;我必须逃离这里了.</Chinesesimp>
+            <Chinesesimp>一切都完了.&lt;br /&gt;CSAT做出了大规模的反击, 整个岛都已经陷入了火海. 这看来就像是世界大战的开始.&lt;br /&gt;&lt;br /&gt;我们认为在几小时的冲突之后, AAF就会直接投降了. 之后, 冲突升级会进一步失控. 我并不知道我到底把什么'东西'交给了Miller, 不过看来CSAT真的把它看得很重要. &lt;br /&gt;&lt;br /&gt;我必须逃离这里了.</Chinesesimp>
             <Japanese>まるで地獄絵図だ。&lt;br /&gt;CSATが猛烈な反撃を開始、島全土が炎に包まれている。まるで世界戦争でも始まったかのように。&lt;br /&gt;&lt;br /&gt;あと数時間もあれば、AAFは降伏し、この紛争も終わる―誰もがそう思っていた。だがそれどころか、状況はもはや制御不能だ。ミラーに渡した例の「モノ」が何なのかは、まだわからない。だがCSATにとってかなり貴重なもののようだ。&lt;br /&gt;&lt;br /&gt;とにかく、早く脱出しなければ。</Japanese>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_Marker_Airbase">
@@ -13336,7 +13336,7 @@
             <English>Guerrillas have pinned down an %2AAF squad%1 and are in need of close air support. They will designate the targets' approximate positions by orange smoke shells and their own with green ones. </English>
             <Portuguese>As guerrilhas encurralaram um %2grupo da AAF%1 e precisam de apoio aéreo aproximado. Elas marcarão as posições aproximadas do alvo com fumaça laranja e as posições delas próprias com fumaças verdes. </Portuguese>
             <Korean>게릴라들이 %2AAF 분대%1에 의해 궁지에 몰렸고, 근접항공지원이 필요한 상태이다. 게릴라의 위치는 녹색 연막이고, 표적의 대략적인 위치는 주황색 연막탄으로 표시해줄 거다.</Korean>
-            <Chinesesimp>反抗军被%2AAF小队%1给压制住了, 他们非常需要空中支援. 他们会使用橘色烟雾来标记敌人, 并用绿色烟雾标记自己.</Chinesesimp>
+            <Chinesesimp>游击队被%2AAF小队%1给压制住了, 他们非常需要近距空中支援. 他们会使用橘色烟雾来标记敌人大概位置, 并用绿色烟雾标记自己.</Chinesesimp>
             <Japanese>ゲリラ部隊が%2AAF分隊%1を足止めし、近接航空支援を求めている。標的のおよその位置をオレンジの煙幕弾で、自部隊の位置はグリーンで示してくれる手筈だ。 </Japanese>
           </Key>
           <Container name="x35_ParachutingAboveWater" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x35_ParachutingAboveWater" dubbingLanguage="english" namePrefix="showcase_fixedwings_x35_parachutingabovewater" note="" participants="EPC B Leader;" situation="player parachuted above water">
@@ -13371,7 +13371,7 @@
               <English>Shit, I knew I should have packed my water wings.</English>
               <Portuguese>Merda, devia ter trazido uma boia.</Portuguese>
               <Korean>염병, 이럴 줄 알았으면 부낭이라도 챙겨올 걸.</Korean>
-              <Chinesesimp>该死, 我就知道我该带些浮圈.</Chinesesimp>
+              <Chinesesimp>该死, 我就知道我早该带些救生圈.</Chinesesimp>
               <Japanese>畜生、やっぱり浮き袋を持ってくればよかった。</Japanese>
             </Key>
           </Container>
@@ -13407,7 +13407,7 @@
               <English>Shit. At least it's better than landing in the sea...</English>
               <Portuguese>Merda. Pelo menos, foi melhor do que cair no mar...</Portuguese>
               <Korean>젠장, 그래도 최소한 바다에 착지한 것보다야 낫겠지...</Korean>
-              <Chinesesimp>该死. 至少不是在海上迫降...</Chinesesimp>
+              <Chinesesimp>该死. 好在至少不是海上迫降...</Chinesesimp>
               <Japanese>クソッ。だが海に着水よりはマシか…。</Japanese>
             </Key>
           </Container>
@@ -13797,7 +13797,7 @@
               <English>Once you get close, they'll designate target positions with orange smoke and their own with green ones.</English>
               <Portuguese>Quando você chegar perto, eles marcarão a posição dos alvos com fumaça laranja e a posição deles mesmos com fumaça verde.</Portuguese>
               <Korean>근처에 접근하면 게릴라들이 자기들 위치는 녹색 연막으로, 표적은 주황색 연막으로 표시를 할 것이다.</Korean>
-              <Chinesesimp>当你接近的时候, 他们会用橘色的烟雾为你标记目标, 而绿色的烟雾则是他们自己.</Chinesesimp>
+              <Chinesesimp>当你接近的时候, 他们会用橘色的烟雾为你标记目标位置, 而绿色的烟雾则是他们自己.</Chinesesimp>
               <Japanese>近くまで行けば、ゲリラが標的位置をオレンジの煙で知らせる。自分たちの位置はグリーンだ。</Japanese>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_65_aaflocated_bhq_4">
@@ -13881,7 +13881,7 @@
               <English>Crossroads, second artillery system destroyed, how copy?</English>
               <Portuguese>Encruzilhada, segundo sistema de artilharia destruído. Copiou?</Portuguese>
               <Korean>크로스로드, 두 번째 야포 파괴 완료. 들었나?</Korean>
-              <Chinesesimp>Crossroads, 第二台自走炮也被歼灭了, 有收到吗?</Chinesesimp>
+              <Chinesesimp>Crossroads, 第二辆自行火炮也被歼灭了, 收到没有?</Chinesesimp>
               <Japanese>クロスローズ、2つ目の砲撃システムを破壊、聞こえるか？</Japanese>
             </Key>
           </Container>
@@ -13899,7 +13899,7 @@
               <English>Good work, now locate and neutralize the second, over.</English>
               <Portuguese>Bom trabalho. Agora encontre e neutralize o segundo. Câmbio.</Portuguese>
               <Korean>잘 했다. 이제 두 번째 놈을 찾아서 무력화하라, 이상.</Korean>
-              <Chinesesimp>干的好, 现在请搜索并摧毁第二台, 完毕.</Chinesesimp>
+              <Chinesesimp>干得好, 现在请搜索并摧毁第二辆, 完毕.</Chinesesimp>
               <Japanese>よくやった、続いて2つ目も探し出し無効化せよ、どうぞ。</Japanese>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_50_onespgdestroyed_lea_0">
@@ -13915,7 +13915,7 @@
               <English>Avenger to Crossroads, one artillery piece found and destroyed, how copy?</English>
               <Portuguese>Vingador para Encruzilhada, encontrei e destruí uma artilharia. Copiou?</Portuguese>
               <Korean>어벤저가 크로스로드에게, 자주포 한 대를 발견해 파괴했다. 확인했나?</Korean>
-              <Chinesesimp>Avenger致Crossroads, 一台自走炮已经被歼灭, 有收到吗?</Chinesesimp>
+              <Chinesesimp>Avenger致Crossroads, 一辆自行火炮已经被歼灭, 有收到吗?</Chinesesimp>
               <Japanese>アベンジャーからクロスローズへ、1つ目の砲床を発見し破壊した、聞こえるか？</Japanese>
             </Key>
           </Container>
@@ -13933,7 +13933,7 @@
               <English>Hawkeye to Crossroads, we've just found one of the artillery systems.</English>
               <Portuguese>Gavião para Encruzilhada, só encontramos um dos sistemas de artilharia.</Portuguese>
               <Korean>호크아이가 크로스로드에게, 방금 야포 중 하나를 발견했다.</Korean>
-              <Chinesesimp>Hawkeye致Crossroads, 我们已经找到了一个自走炮.</Chinesesimp>
+              <Chinesesimp>Hawkeye致Crossroads, 我们已经找到了一辆自行火炮.</Chinesesimp>
               <Japanese>ホークアイからクロスローズへ、敵の砲撃システムのうち1基を発見した。</Japanese>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_45_spgfound_aba_1">
@@ -13949,7 +13949,7 @@
               <English>We don't have any means to destroy it, but we can laser designate it for Avenger.</English>
               <Portuguese>Não temos como destruí-lo, mas podemos marcar com laser para o Vingador.</Portuguese>
               <Korean>이걸 우리가 파괴할 방법은 없지만, 레이저로 어벤저측에 표적을 지정할 수는 있다.</Korean>
-              <Chinesesimp>我们并没有能力可以摧毁它, 但是我们可以为Avenger进行雷射导引.</Chinesesimp>
+              <Chinesesimp>我们没法摧毁它, 但是我们可以为Avenger进行激光制导.</Chinesesimp>
               <Japanese>当機には攻撃手段がない。だがレーザーでアベンジャーに位置を示すことは可能だ。</Japanese>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_45_spgfound_aba_2">
@@ -14031,7 +14031,7 @@
               <English>Avenger to Crossroads, I've neutralized all enemy support vehicles, they won't reach the front line.</English>
               <Portuguese>Vingador para Encruzilhada. Neutralizei todos os veículos de apoio inimigos. Eles não chegarão à linha de frente.</Portuguese>
               <Korean>어벤저가 크로스로드에게, 적의 모든 지원차량 무력화 완료. 놈들이 전선에 도착하는 일은 없을 거다.</Korean>
-              <Chinesesimp>Avenger致Crossroads, 我已经歼灭了敌军所有的补给载具, 它们没办法抵达前线了.</Chinesesimp>
+              <Chinesesimp>Avenger致Crossroads, 我已经歼灭了敌军所有的支援载具, 它们没办法抵达前线了.</Chinesesimp>
               <Japanese>アベンジャーからクロスローズへ、敵支援車両をすべて無力化。奴らが前線に現れることはない。</Japanese>
             </Key>
           </Container>
@@ -14169,7 +14169,7 @@
               <English>Avenger, they probably want to deploy troops or drop supplies to Greenbacks on this part of the island.</English>
               <Portuguese>Vingador, acho que eles querem posicionar as tropas para deixar suprimentos para os Greenbacks nessa parte da ilha.</Portuguese>
               <Korean>어벤저, 아마도 병력 투입, 아니면 이 지역에 있는 그린백 놈들에게 보급품을 투하하려는 걸 거다.</Korean>
-              <Chinesesimp>Avenger, 他们可能是想部属部队或空投补给给绿军的残余部队.</Chinesesimp>
+              <Chinesesimp>Avenger, 他们可能是想部署部队或空投补给给绿军的残余部队.</Chinesesimp>
               <Japanese>アベンジャー、敵機の目的はおそらく、この地点への部隊輸送か、グリーンバックへの物資投下だ。</Japanese>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_15_helispotted_bhq_1">
@@ -14217,7 +14217,7 @@
               <English>It's flying low and heading south-west. Definitely a helicopter.</English>
               <Portuguese>Está voando baixo em direção a sudoeste. Definitivamente é um helicóptero.</Portuguese>
               <Korean>저고도로 남서쪽을 향하고 있다. 헬리콥터가 확실하다.</Korean>
-              <Chinesesimp>他飞的很低, 并朝着西南方向前进. 绝对是一台直升机.</Chinesesimp>
+              <Chinesesimp>他飞的很低, 并朝着西南方向前进. 绝对是一架直升机.</Chinesesimp>
               <Japanese>低空を南西に向け飛行中。ヘリコプターと思われる。</Japanese>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_15_helispotted_lea_0">
@@ -14287,7 +14287,7 @@
               <English>AA missile away!</English>
               <Portuguese>Míssil AA lançado!</Portuguese>
               <Korean>대공미사일 발사!</Korean>
-              <Chinesesimp>防空飞弹发射了!</Chinesesimp>
+              <Chinesesimp>空对空导弹发射了!</Chinesesimp>
               <Japanese>AAミサイル発射！</Japanese>
             </Key>
           </Container>
@@ -14305,7 +14305,7 @@
               <English>Yeah, this is some speed!</English>
               <Portuguese>Mas que velocidade!</Portuguese>
               <Korean>이야! 이거 속도 되게 빠르네!</Korean>
-              <Chinesesimp>耶, 这才叫做速度!</Chinesesimp>
+              <Chinesesimp>耶, 速度与激情!</Chinesesimp>
               <Japanese>ああ、スピードの極みだ！</Japanese>
             </Key>
           </Container>
@@ -14357,7 +14357,7 @@
               <English>Be advised, OPFOR's got one ship less.</English>
               <Portuguese>Fique ciente de que as Forças Opositoras perderam uma aeronave.</Portuguese>
               <Korean>알린다. 대항군의 함정이 한 척 줄었다.</Korean>
-              <Chinesesimp>请注意, 敌方少掉了一台船只.</Chinesesimp>
+              <Chinesesimp>请注意, 敌方少了一艘船只.</Chinesesimp>
               <Japanese>報告する、OPFORの船を1隻撃沈。</Japanese>
             </Key>
           </Container>
@@ -14782,7 +14782,7 @@
             <English>After you have destroyed enemy support units, you can rearm and refuel once when you land at the airbase and roll to the %2maintenance point%1. </English>
             <Portuguese>Depois de destruir as unidades de apoio inimigas, reabasteça os armamentos e o combustível quando pousar na base aérea e siga para o %2ponto de manutenção%1. </Portuguese>
             <Korean>적의 지원병력을 파괴한 후에는 공군기지에 착륙한 후, %2정비지점%1으로 이동하면 재무장 및 재급유를 받을 수 있다.</Korean>
-            <Chinesesimp>在你完成摧毁敌人补给车队的目标后, 你可以回到基地的%2维修点%1来进行弹药与燃油的补给.</Chinesesimp>
+            <Chinesesimp>在你完成摧毁敌人补给车队的目标后, 你可以回到基地的%2维修点%1来补充弹药和燃料.</Chinesesimp>
             <Japanese>敵支援部隊を破壊した後は、必要に応じて弾薬補給と燃料補給を受けられる。空軍基地に着陸し、%2整備ポイント%1に向かえ。 </Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_BIS_tskResupply_title">
@@ -14798,7 +14798,7 @@
             <English>Resupply (optional) </English>
             <Portuguese>Reabastecimento (opcional) </Portuguese>
             <Korean>재보급 받기(선택)</Korean>
-            <Chinesesimp>重新整备 (支线任务)</Chinesesimp>
+            <Chinesesimp>重新补给 (支线任务)</Chinesesimp>
             <Japanese>再補給（任意） </Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_BIS_tskResupply_WP">
@@ -14894,7 +14894,7 @@
             <English>Destroy Self-propelled Guns </English>
             <Portuguese>Destrua as armas autopropulsionadas </Portuguese>
             <Korean>자주포 파괴하기</Korean>
-            <Chinesesimp>摧毁自走炮</Chinesesimp>
+            <Chinesesimp>摧毁自行火炮</Chinesesimp>
             <Japanese>自走砲を破壊 </Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_BIS_tskSPG_WP">
@@ -14942,7 +14942,7 @@
             <English>Enemy air defenses are now weakened, as our forces were able to destroy both enemy self-propelled AA systems in the area, though with heavy losses. The main threat will be from man-portable short-range AA missiles and large-caliber ground fire, should you fly too low.</English>
             <Portuguese>As defesas aéreas inimigas estão enfraquecidas, pois nossas forças conseguiram destruir os dois sistemas AA autopropulsionados na área, mas sofreram grandes baixas. A ameaça principal será dos mísseis antiaéreos portáteis de curto alcance e do fogo antiaéreo de alto calibre se você voar muito baixo.</Portuguese>
             <Korean>현재 아군이 상당한 손실을 입기는 했지만, 지역에 있던 자주대공포 파괴에 성공해 적의 대공방어가 약화되었다. 그러므로 이번 임무의 주요 위협은 아마도 너무 낮게 비행할 경우에 마주치게 될 휴대용 단거리 대공미사일과 대구경 지상포화가 될 것이다.</Korean>
-            <Chinesesimp>我们的部队在早些时候成功的摧毁了敌人的自行防空炮系统, 导致现在敌人的空防能力变弱. 现在敌人主要的空防能力是由单兵携带的短程地对空导弹, 与大口径的武器所组成, 所以不要飞得太低.</Chinesesimp>
+            <Chinesesimp>我们的部队在早些时候成功的摧毁了敌人的自行防空炮系统, 导致现在敌人的防空能力变弱. 现在敌人主要的防空能力是由单兵携带的短程地对空导弹, 与大口径的地面武器所组成, 所以不要飞得太低.</Chinesesimp>
             <Japanese>敵の自走式AAシステムを2基とも破壊し、その防衛に打撃を与えたものの、こちらの損害も小さくはない。また、低く飛びすぎれば、携帯式短距離AAミサイルや大口径地上砲の餌食となるだろう。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Briefing_Intel_title">
@@ -14974,7 +14974,7 @@
             <English>Destroy the enemy %2supply convoy%1 heading to %3Paros%1 before they reach the city, then locate and destroy CSAT's %4self-propelled artillery%1.</English>
             <Portuguese>Destrua o %2comboio de suprimentos%1 inimigo a caminho de %3Paros%1 antes que ele chegue à cidade e depois destrua a %4artilharia autopropulsionada%1 da CSAT.</Portuguese>
             <Korean>적의 %3파로스%1로 향하는 %2보급대%1가 도시에 도착하기 전에 파괴한 후, CSAT의 %4자주포%1를 찾아서 파괴하라.</Korean>
-            <Chinesesimp>在敌人的%2补给车队%1抵达%3Paros%1之前摧毁他们, 然后寻找并摧毁CSAT的%4自走炮%1.</Chinesesimp>
+            <Chinesesimp>在敌人的%2补给车队%1抵达%3Paros%1之前摧毁他们, 然后寻找并摧毁CSAT的%4自行火炮%1.</Chinesesimp>
             <Japanese>敵の%2物資輸送団%1が%3パロス%1に到着する前に破壊し、さらにCSATの%4自走砲%1を見つけ出して破壊せよ。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Briefing_Signal_text">
@@ -14990,7 +14990,7 @@
             <English>Crossroads - Col. David Armstrong, Commander-in-chief&lt;br /&gt;Guardian - Lieutenant Lewis, control tower&lt;br /&gt;Avenger - your A-164 Wipeout.</English>
             <Portuguese>Encruzilhada – Col. David Armstrong, comandante chefe&lt;br /&gt;Guardião – Tenente Lewis, torre de controle&lt;br /&gt;Vingador – Seu A-164 Wipeout.</Portuguese>
             <Korean>크로스로드 - 데이비드 암스트롱 대령, 총사령관&lt;br /&gt;가디언 - 루이스 중위, 관제탑&lt;br /&gt;어벤저 - 플레이어의 A-164 와이프아웃</Korean>
-            <Chinesesimp>Crossroads - 上校David Armstrong, 总司令&lt;br /&gt;Guardian - 中尉Lewis, 塔台&lt;br /&gt;Avenger - 你的A-164 Wipeout.</Chinesesimp>
+            <Chinesesimp>Crossroads - David Armstrong上校, 总司令&lt;br /&gt;Guardian - Lewis中尉, 塔台&lt;br /&gt;Avenger - 你的A-164 Wipeout.</Chinesesimp>
             <Japanese>クロスローズ - デビッド・アームストロング大佐、最高司令官&lt;br /&gt;ガーディアン - ルイス大尉、管制塔&lt;br /&gt;アベンジャー - 自機のA-164ワイプアウト</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Briefing_Situation_text">
@@ -15006,7 +15006,7 @@
             <English>Our second attempt to establish a strong foothold on Altis was ultimately successful, yet the combined strength of AAF and CSAT forces still presents a significant threat. Recon reports indicate that our enemy is regrouping near the city of %2Paros%1.&lt;br /&gt;&lt;br /&gt;According to intel provided by local guerrillas, the only thing delaying their counter-attack is a lack of fuel and ammunition, the result of a recent FIA attack on the AAF's main supply center.&lt;br /&gt;&lt;br /&gt;However, CSAT will soon dispatch supply convoy from %3city of Molos%1 to their armored units. This convoy must be destroyed, otherwise their advanced main battle tanks will wreak havoc against our defensive positions.&lt;br /&gt;&lt;br /&gt;Additionally, enemy self-propelled guns are hidden somewhere in the %4north of the peninsula%1. This artillery is inflicting heavy damage and must be found and destroyed. &lt;br /&gt;&lt;br /&gt;If you find yourself in need of additional fuel or ammo, return to the airbase and roll to the %5maintenance point%1; however time is of the essence; do not miss our opportunity to destroy the supply convoy.</English>
             <Portuguese>Nossa segunda tentativa de estabelecer uma posição segura em Altis foi bem-sucedida, mas a resistência combinada das forças da AAF e da CSAT ainda representa uma grande ameaça. Os relatórios de reconhecimento indicam que o inimigo está se reagrupando perto da cidade de %2Paros%1.&lt;br /&gt;&lt;br /&gt;De acordo com a inteligência fornecida pelas guerrilhas locais, o contra-ataque deles só está atrasado por causa da falta de combustível e de munição, que ocorreu devido a um ataque recente da FIA ao centro principal de suprimentos da AAF.&lt;br /&gt;&lt;br /&gt;No entanto, a CSAT logo enviará um comboio de suprimentos da %3cidade de Molos%1 às unidades blindadas. O comboio deve ser destruído, senão os tanques de batalha principais deles causarão um enorme caos nas nossas posições de defesa.&lt;br /&gt;&lt;br /&gt;Além disso, armas autopropulsionadas inimigas estão escondidas em algum lugar no %4norte da península%1. A artilharia está causando grande dano e deve ser encontrada e destruída. Se perceber que precisa de mais combustível ou munição, retorne à base aérea e vá ao %5ponto de manutenção%1. Contudo, o tempo urge. Não perca a oportunidade de destruir o comboio de suprimentos.</Portuguese>
             <Korean>알티스에 견고한 발판을 만들려 했던 우리의 두 번째 시도는 결국 성공했지만, AAF와 CSAT군의 연합군은 여전히 상당한 위협이 되고 있다. 정찰 결과, 적군이 %2파로스%1 부근에서 재집결 중이라고 한다.&lt;br /&gt;&lt;br /&gt;지역 게릴라가 제공한 정보에 따르면, 놈들은 연료와 탄약의 부족 때문에 반격이 지연되고 있는 거라고 하며, 그건 최근에 AAF의 중앙 보급본부에 행해진 FIA 공격의 결과라고 한다.&lt;br /&gt;&lt;br /&gt;하지만 CSAT이 곧 자신들의 기갑병력을 이용해 %3몰로스%1로 보급대를 파견할 예정이지. 이 호송대를 반드시 파괴하지 못하면 놈들의 진보된 주력전차가 우리 방어진지를 짓밟게 될 것이다.&lt;br /&gt;&lt;br /&gt;추가적으로 적의 자주포도 %4반도 북쪽%1 어딘가에 숨겨져 있다. 이 야포는 심각한 피해를 입힐 수 있으니 꼭 찾아내서 파괴해야 하지. 발견은 했지만 연료나 탄약이 부족하다면, 기지로 복귀한 다음에 %5정비지점%1으로 이동하라. 이번 작전은 시간이 관건이니, 놈들의 보급대를 파괴할 수 있는 이 기회를 놓치지 말자. </Korean>
-            <Chinesesimp>在我们第二次尝试后, 我们终于在Altis上建立了稳定的立足点, 尽管AAF与CSAT的联合部队仍是一大威胁. 情报指出, 敌人正在%2Paros%1附近集结.&lt;br /&gt;&lt;br /&gt;根据当地反抗军所提供的情报, 在早些时候FIA突击了AAF的主要补给中心, 让敌人因为缺乏弹药与燃油等补给, 进而拖延了他们的反攻.&lt;br /&gt;&lt;br /&gt;然而, CSAT将要从%3Molos城市%1派出他们的武装补给车队, 假使让这个车队成功到达的话, 他们先进的主战坦克将会肆虐我们的防御阵地.&lt;br /&gt;&lt;br /&gt;此外, 敌人的自走炮正躲藏在%4半岛北部%1的某处. 这些火炮对我们来说是一大威胁, 必须立刻找到并加以摧毁. 假使你弹药或燃油不够, 你可以返回基地的%5维修点%1进行整备; 然而时间是不等人的, 绝对不要让我们错失摧毁车队的时机.</Chinesesimp>
+            <Chinesesimp>在我们第二次尝试后, 我们终于在Altis上建立了稳定的立足点, 但AAF与CSAT的联合部队仍是一大威胁. 情报指出, 敌人正在%2Paros%1附近集结.&lt;br /&gt;&lt;br /&gt;根据当地游击队所提供的情报, 拖住敌人反攻的唯一原因是弹药燃料补给不足, 因为在早些时候FIA突击了AAF的主要补给中心.&lt;br /&gt;&lt;br /&gt;然而, CSAT马上将要从%3Molos城市%1向装甲部队派出补给车队, 必须摧毁这个车队, 否则他们先进的主战坦克将会碾压我们的防御阵地.&lt;br /&gt;&lt;br /&gt;此外, 敌人的自行火炮正躲藏在%4半岛北部%1的某处. 这些火炮对我们来说是一大威胁, 必须立刻找到并加以摧毁. 假使你弹药或燃油不够, 你可以返回基地的%5维修点%1进行整备; 然而时间是不等人的, 绝对不要让我们错失摧毁车队的时机.</Chinesesimp>
             <Japanese>我が軍は二度目にしてアルティスに強固な足場を築くことに成功したが、AAFとCSATの連合戦力は未だ大きな脅威だ。偵察によると、敵は%2パロス%1に結集しつつある。&lt;br /&gt;&lt;br /&gt;地元ゲリラの情報では、敵の反撃を阻んでいるのは、もはや燃料と弾薬の不足のみという状況だ。FIAがAAFの主要補給センターを攻撃した結果である。&lt;br /&gt;&lt;br /&gt;だがCSATはほどなく自軍装甲部隊に向け、%3モロス%1から物資輸送団を派遣するだろう。この輸送団を破壊しなければ、我が軍の防衛陣地は敵の最新鋭主力戦車に蹂躙されることになる。&lt;br /&gt;&lt;br /&gt;さらに、敵の自走砲が%4半島北部%1に隠されているようだ。放っておけば味方に大打撃となる。見つけ出し、破壊せよ。この任務に入る場合は、燃料と弾薬を補給できる。空軍基地に帰投し、%5整備ポイント%1に向かえ。ただし、重要なのは時間だ。物資輸送団を破壊するチャンスを逃すな。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Debriefing_Fail01_description">
@@ -15022,7 +15022,7 @@
             <English>Your hesitation and inexperience has enabled our enemy to maintain their advantage, presenting our forces with a significant setback.</English>
             <Portuguese>Sua hesitação e sua inexperiência permitiram que o inimigo mantivesse a vantagem, o que foi um enorme atraso para as nossas forças.</Portuguese>
             <Korean>귀관의 망설임과 경험 부족으로 인해 적군은 이득을 봤고, 아군의 작전은 심각한 차질이 생겼다.</Korean>
-            <Chinesesimp>你的懦弱与无知直接导致了我们被迫做出让步, 你实在太让我们失望了.</Chinesesimp>
+            <Chinesesimp>你的懦弱与无知直接导致了敌人保持先手, 你实在太让我们失望了.</Chinesesimp>
             <Japanese>ぐずぐずとした未熟な行動のせいで、敵は優勢を維持、我が軍は大打撃を被った。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Debriefing_Fail01_title">
@@ -15054,7 +15054,7 @@
             <English>You were unable to fulfill your main tasks, weakening our strategic position.</English>
             <Portuguese>Você não conseguiu cumprir suas tarefas principais, e isso enfraqueceu nossa posição estratégica.</Portuguese>
             <Korean>귀관이 주요 과업을 완수하지 못해, 아군의 전략적 이점이 약해졌다.</Korean>
-            <Chinesesimp>你无法抵挡敌人的攻击, 我们又被更进一步的削弱了.</Chinesesimp>
+            <Chinesesimp>你无法抵挡敌人的攻击, 我们的战略又被更进一步的削弱了.</Chinesesimp>
             <Japanese>主要タスクを完遂できず、自軍の戦略的地位を損ねた。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Debriefing_Fail02_title">
@@ -15086,7 +15086,7 @@
             <English>Despite your best efforts, your plane has been shot down. This battle is over for you.</English>
             <Portuguese>Apesar dos seus grandes esforços, seu avião foi abatido. A batalha acabou para você.</Portuguese>
             <Korean>귀관은 최선을 다했지만, 항공기가 격추되고 말았다. 귀관에게 이 전투는 끝난 거다.</Korean>
-            <Chinesesimp>尽管你有做出努力, 但你的飞机已经被击落. 这场战斗已经远远大过你能负荷的难度了.</Chinesesimp>
+            <Chinesesimp>尽管你有做出努力, 但你的飞机已经被击落. 这场战斗已经对你来说已经结束了.</Chinesesimp>
             <Japanese>全力で任務に臨んだが、撃墜された。戦いから一足先に脱落となった。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Debriefing_Fail03_title">
@@ -15134,7 +15134,7 @@
             <English>Complete Success</English>
             <Portuguese>Sucesso completo</Portuguese>
             <Korean>완벽 성공</Korean>
-            <Chinesesimp>任务成功</Chinesesimp>
+            <Chinesesimp>完美成功</Chinesesimp>
             <Japanese>完全成功</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Debriefing_Win02_description">
@@ -15182,7 +15182,7 @@
             <English>You prevented the enemy from launching a counter-attack and greatly improved our tactical situation, yet you missed an opportunity to strike even harder.</English>
             <Portuguese>Você evitou que o inimigo lançasse um contra-ataque e melhorou consideravelmente nossa situação tática, mas perdeu uma oportunidade de causar ainda mais dano.</Portuguese>
             <Korean>귀관은 적의 반격을 미연에 방지했을 뿐만 아니라, 아군의 전술적 상황도 크게 개선시켰다. 하지만 적에게 더 심각한 타격을 입힐 수 있는 기회를 놓치기도 했지.</Korean>
-            <Chinesesimp>你防止了敌人对我们发动反攻, 大大的增加了我们的战术优势, 尽管你措施一个机会来把敌人打得更惨.</Chinesesimp>
+            <Chinesesimp>你防止了敌人对我们发动反攻, 大大的增加了我们的战术优势, 不过你错失了把敌人打得更惨的机会.</Chinesesimp>
             <Japanese>敵の反撃を未然に防ぎ、戦況を有利に導いたが、さらに攻勢をかける好機を逸した。</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Debriefing_Win03_title">
@@ -15230,7 +15230,7 @@
             <English>MAINTENANCE UNDER PROGRESS...</English>
             <Portuguese>MANUTENÇÃO EM ANDAMENTO</Portuguese>
             <Korean>정비 진행 중...</Korean>
-            <Chinesesimp>维修进行中...</Chinesesimp>
+            <Chinesesimp>维护进行中...</Chinesesimp>
             <Japanese>整備進行中…</Japanese>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_rearm_text02">
@@ -15381,7 +15381,7 @@
           <English>7th Mechanized Brigade Combat Team (MBCT), 111th Infantry Division, rapidly deployed to the Republic of Altis and Stratis to respond to apparent CSAT aggression.</English>
           <Portuguese>A 7ª Equipe de Brigada Mecanizada (EBM), 111ª divisão de infantaria, foi enviada rapidamente à República de Altis e Stratis para responder a um ataque legítimo da CSAT.</Portuguese>
           <Korean>명확한 CSAT의 도발에 대응하기 위해 신속하게 알티스 및 스트라티스 공화국으로 배치된 제7기계화여단전투단(MBCT), 제111보병사단</Korean>
-          <Chinesesimp>第7机械化战斗旅, 第111步兵师, 被迅速的调派到Altis和Stratis共和国, 以因应CSAT明显的入侵行为.</Chinesesimp>
+          <Chinesesimp>第7机械化旅级战斗队, 第111步兵师, 被迅速的调派到Altis和Stratis共和国, 以应对CSAT明显的入侵行为.</Chinesesimp>
           <Japanese>明らかなCSAT攻撃に対応するため、第7機械化旅団戦闘団（MBCT）、第111歩兵師団がアルティスとストラティスに緊急展開された。</Japanese>
         </Key>
       </Container>
